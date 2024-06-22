@@ -1,5 +1,6 @@
 
 # Bibliotecas para manipulação de dados
+streamlit>=1.34.0
 numpy==1.22.0
 pandas==1.3.3
 
