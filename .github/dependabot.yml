@@ -1,23 +1,8 @@
-# Basic set up for three package managers
-
 version: 2
 updates:
-
-  # Maintain dependencies for GitHub Actions
-  - package-ecosystem: "github-actions"
-    # Workflow files stored in the default location of `.github/workflows`. (You don't need to specify `/.github/workflows` for `directory`. You can use `directory: "/"`.)
-    directory: "/"
+  - package-ecosystem: "npm" # Altere para o gerenciador de pacotes que você está usando
+    directory: "/" # O diretório onde está o arquivo de dependências
     schedule:
-      interval: "weekly"
+      interval: "daily" # A frequência das atualizações
+    open-pull-requests-limit: 10 # O número máximo de pull requests abertos
 
-  # Maintain dependencies for npm
-  - package-ecosystem: "npm"
-    directory: "/"
-    schedule:
-      interval: "weekly"
-
-  # Maintain dependencies for Composer
-  - package-ecosystem: "composer"
-    directory: "/"
-    schedule:
-      interval: "weekly"
