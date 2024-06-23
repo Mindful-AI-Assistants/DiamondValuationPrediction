@@ -1,5 +1,8 @@
+
 # Full Version Dependant
+
 version: 2
+
 updates:
   - package-ecosystem: "bundler"
     directory: "/updater"
@@ -114,6 +117,9 @@ updates:
       interval: "weekly"
       day: "sunday"
       time: "14:00"
+
+      
+
 
 
       
