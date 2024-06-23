@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: 💎 Diamond Valuation Prediction repository
+message: If you really want to cite this repository, here's how you should cite it.
+type: software
+authors:
+  - given-names: Mindful-AI-Assistants
+repository-code: https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction
+license: MIT License
