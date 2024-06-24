@@ -202,6 +202,56 @@ diamonds["depth"] = round(diamonds["depth"], 1)
 diamonds
 ```
 
+#### Price Prediction Model
+
+### Saving the already cleaned database without missing values
+
+```Python
+path = r"DataBases\Diamonds_clean.csv"
+try:
+    pd.read_csv(f"{path}")
+    print(f"This dataframe already exists in the directory: {path}")
+except FileNotFoundError:
+    diamonds.to_csv(fr"{path}", index=False)
+    print(f'''Cleaned database added to directory:
+          {path}
+          successfully!!''')
+```
+
+#### Analysis of the price relationship of the numerical columns
+
+### **IMPORTANT INFORMATION:**
+
+1- **Carat is equivalent to 200mg**
+
+2- **Points are equivalent to 0.01 carats**
+
+The graph below compares the relationship of the length of a diamond with the carat and with the price
+
+```python
+plt.figure(figsize=(17, 10))
+
+plt.subplot(2, 1, 1)
+sns.scatterplot(data=diamonds, x="x", y="price")
+plt.xlabel("Length (mm)")
+plt.ylabel("Price")
+plt.gca().spines["right"].set_visible(False)
+plt.gca().spines["top"].set_visible(False)
+plt.gca().spines["left"].set_visible(False)
+plt.grid(axis="y", alpha=0.5)
+
+plt.subplot(2, 1, 2)
+sns.scatterplot(data=diamonds, x="x", y="carat")
+plt.xlabel("Length (mm)")
+plt.ylabel("Carat")
+plt.gca().spines["right"].set_visible(False)
+plt.gca().spines["top"].set_visible(False)
+plt.gca().spines["left"].set_visible(False)
+plt.grid(axis="y", alpha=0.5)
+
+plt.show()
+```
+
 
 
 
