@@ -103,7 +103,6 @@ sns.heatmap((diamonds[["carat", "depth", "table", "price", "x", "y", "z"]]).corr
 plt.title("Coeficiente de Correlação Linear")
 plt.show()
 ```
-#
 
 ### Engenharia de Recursos
 
@@ -128,9 +127,9 @@ Ao analisarmos o mapa de calor acima, podemos perceber que podemos definir o pre
 
 Já para x (comprimento), y (largura) e z (profundidade), essa confiabilidade é de apenas 79% para comprimento e largura, e 78% para profundidade, o que não é uma determinação forte, e por isso poderão ser desconsideradas caso as variáveis categóricas, consigam definir com precisão o preço do diamante.
 
- Abaixo estamos realizando o processo de separação da base de dados diamonds. Para que assim, o processo de machine learn seja mais efetivo.
+Abaixo estamos realizando o processo de separação da base de dados diamonds. Para que assim, o processo de machine learn seja mais efetivo.
 
-  Cut tem 5 tipos de classificação Ideal, Premium, Good, Very Good e Fair
+ Cut tem 5 tipos de classificação Ideal, Premium, Good, Very Good e Fair
 
 - Color tem 7 tipos de classificação E, I, J, H, F, G e D
 
@@ -158,7 +157,7 @@ classificacao = KNNImputer(n_neighbors = round(math.log(diamonds.shape[0])))
 diamonds[["carat", "depth", "table", "price", "x", "y", "z"]] = classificacao.fit_transform(diamonds[["carat", "depth", "table", "price", "x", "y", "z"]])
 
 diamonds
-'''
+```
 
 ### Applying K-NN for categorical columns
 
