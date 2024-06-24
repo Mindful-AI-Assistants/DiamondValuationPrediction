@@ -447,13 +447,23 @@ git branch -d feature/my-feature
 
 ## 👥 Nosso Time 
 
-Fabiana 🚀 Campanari
-Gabriel Melo Dos Santos
-José Augusto de Souza Oliveira
-Luan Augusto dos Santos Fabiano
-Pedro Gallego Barenco
-Pedro Vyctor Carvalho De Almeida
+- n[Fabiana Campanari](https://github.com/FabianaCampanari)
 
+- [Gabriel Melo Dos Santos](https://github.com/Gabri3l-
+
+<!--
+
+José Augusto de Souza Oliveira
+https://github.com/Jojose3
+
+Luan Augusto dos Santos Fabiano
+https://github.com/LuanFabiano28
+
+Pedro Gallego Barenco
+https://github.com/Pgbarenco
+-->
+
+- [Pedro Vyctor Carvalho De Almeida](https://github.com/ppvyctor)
 #
 
 ## 🫶 Código de Conduta
