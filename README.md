@@ -44,7 +44,7 @@ https://diamondsvalues.streamlit.app/
 
 
 
-<p align="center"> 👑🇧🇷 QR Code of the Site on Streamlist </p>
+<p align="center"> 👑 QR Code of the Site on Streamlist </p>
 
 <p align="center">
   <img src="Site.png" alt="QR Code 1" width="200"/>
