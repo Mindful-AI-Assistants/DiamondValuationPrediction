@@ -104,10 +104,11 @@ sns.heatmap((diamonds[["carat", "depth", "table", "price", "x", "y", "z"]]).corr
 plt.title("Coeficiente de Correlação Linear")
 plt.show()
 ```
-#
 
-Resource Engineering
-Analysis of the heat map above based on price:
+### Resource Engineering
+
+### Analysis of the heat map above based on price:
+
 We can conclude that the price does not have a good correlation with the total percentage of the diamond (depth) and also does not have a high correlation with the table, with an inversely proportional correlation of -0.0086 with depth, and a proportional relationship of 0.13 with the table.
 We can also conclude that the price has a good linear correlation with the carat of 0.92, x (length) of 0.89, y (width) of 0.89, and z (depth) of 0.88.
 
@@ -115,26 +116,29 @@ Based on this heat map analysis, we can conclude that the larger the carat, x (l
 
 However, there may be some cases where a diamond has a very high carat but a low price, just as there may be diamonds with a low carat but a high price. This can also happen with x (length), y (width), and z (depth). Because of this, we question the following: how well can the carat, x (length), y (width), and z (depth) determine the value of the diamond? To answer this, we need to derive the Coefficient of Determination.
 
-python
+```python
 Copy code
 plt.figure(figsize=(8, 6))
 sns.heatmap((diamonds[["carat", "depth", "table", "price", "x", "y", "z"]]).corr()**2, vmin=-1, vmax=1, annot=True, cmap='magma')
 plt.title("Coefficient of Determination")
 plt.show()
-Analysis of the heat map above based on price:
+```
+
+### Analysis of the heat map above based on price:
+
 When analyzing the heat map above, we can see that we can define the price of the diamond more reliably using the numerical variable carat, with 85% reliability. This means that although we can say that the higher the carat of the diamond, the higher its price, unfortunately, this rule is only valid for 85% of the data.
 
 For x (length), y (width), and z (depth), this reliability is only 79% for length and width and 78% for depth, which is not a strong determination. Therefore, they may be disregarded if the categorical variables can accurately define the price of the diamond.
 
 Below we are performing the process of separating the diamonds database so that the machine learning process is more effective.
 
-Cut has 5 classification types: Ideal, Premium, Good, Very Good, and Fair
+- Cut has 5 classification types: Ideal, Premium, Good, Very Good, and Fair
 
-Color has 7 classification types: E, I, J, H, F, G, and D
+- Color has 7 classification types: E, I, J, H, F, G, and D
 
-Clarity has 8 classification types: SI2, SI1, VS1, VS2, VVS2, VVS1, I1, and IF
+- Clarity has 8 classification types: SI2, SI1, VS1, VS2, VVS2, VVS1, I1, and IF
 
-Implementation of K-NN
+### Implementation of K-NN
 
 Setting length, width, and/or depth measurements of a diamond equal to 0 as NaN
 
