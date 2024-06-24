@@ -175,7 +175,6 @@ Applying K-NN for categorical columns
 
 
 
-ChatGPT can make mistakes. Check important info.
 
 #
 
