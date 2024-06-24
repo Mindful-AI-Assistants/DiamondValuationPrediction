@@ -163,7 +163,7 @@ for x in range(diamonds.shape[0]):
 diamonds
 ```
 
-Below is the implementation of K-NN in the numerical columns
+Below is the implementation of K-NN Algorithm in the numerical columns
 Some books advise using the formula (K = log n) where n is the number of rows in the database.
 To thus define the amount of K.
 
@@ -175,7 +175,7 @@ diamonds[["carat", "depth", "table", "price", "x", "y", "z"]] = classification.f
 diamonds
 ```
 
-### Applying K-NN for Categorical Columns Algorithm
+### Applying K-NN Algorithm for Categorical Columns Algorithm
 
 ```python
 Copy code
@@ -189,7 +189,7 @@ diamonds_imputer = pd.DataFrame(diamonds_imputer, columns = diamonds.columns)
 diamonds_imputer = encoder.inverse_transform(diamonds_imputer)
 ```
 
-### Angular Coefficient Graphics
+### Angular Coefficient Graphic
 
 <p align="center">
   <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/22ab9ccb-3e3d-4884-9700-3cdd2811461a"
@@ -242,7 +242,7 @@ except FileNotFoundError:
 
 ### Analysis of the Price Relationship of the Numerical Columns
 
-#### **IMPORTANT INFORMATION:**
+### **IMPORTANT INFORMATION:**
 
 1- **Carat is equivalent to 200mg**
 
@@ -337,12 +337,12 @@ plt.grid(axis = "y", alpha = 0.5)
 plt.show()
 ```
 
-### Relationship of the depth of a diamond with the carat and with the price
+### Relationship of the Depth of a Diamond with the Carat and with the Price
 
 <p align="center">
   <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/8f17f4b1-2fbf-4eb2-80e4-8755c5422c51"/>
 
-### The graph below compares the relationship of the carat of a diamond with the price
+#### The graph below compares the relationship of the carat of a diamond with the price
 
 ```python
 plt.figure(figsize=(17, 5))
@@ -361,11 +361,7 @@ plt.show()
 ### Relationship of the carat of a diamond with the price
 
 <p align="center">
-  <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/ba6b45cd-e624-4dfa-85a9-8b8a1cde832b"/>
-
-  #
-
-
+  <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/ba6b45cd-e624-4dfa-85a9-8b8a1cde832b"/=
 ##  🔍 Descobertas 
 
 ####Análise de Recursos Numéricos:
