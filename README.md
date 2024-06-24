@@ -26,7 +26,7 @@ This repository contains a Python project for  analyzing a dataset of diamond ch
 - [Getting Started Cloning](#getting-started)
 - [Contributing](#contributing)
 - [Git Commands](#GitCommands)
-- [Access the Streamlist Site](https://diamondsvalues.streamlit.app/)  <!-- - [ Tap here and teleport to the site]() 🇺🇸  --> 
+- [Access the Streamlit Site](https://diamondsvalues.streamlit.app/)  <!-- - [ Tap here and teleport to the site]() 🇺🇸  --> 
 - [QR Coides](#QRCodes)
 - [Our Team](#our-team)
 - [Code of Conduct](#code-of-conduct)
@@ -42,7 +42,7 @@ This repository contains a Python project for  analyzing a dataset of diamond ch
 
 ## QR Codes
 
-<p align="center"> 👑 QR Code of the Site on Streamlist </p>
+<p align="center"> 👑 QR Code of the Site on Streamlit </p>
 
 <p align="center">
   <img src="Site.png" alt="QR Code 1" width="200"/>
@@ -51,7 +51,7 @@ This repository contains a Python project for  analyzing a dataset of diamond ch
   <br>
 
 <!--  
-<p align="center"> 👑🇺🇸 QR Code of the Site on Streamlist (English)  (Portuguese) </p>
+<p align="center"> 👑🇺🇸 QR Code of the Site on Streamlit (English)  (Portuguese) </p>
 
 <p align="center">
   <img src="" />
