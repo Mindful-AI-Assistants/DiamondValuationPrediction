@@ -10,23 +10,26 @@
 
 
 
-<p align="center"> 👑🇺🇸 QR Code of the Site on Streamlist (English)
+<p align="center"> 👑🇺🇸 QR Code of the Site on Streamlist (English) </p>
 
 <p align="center">
   <img src="Site.png" alt="QR Code 1" width="200"/>
+  </p>
 
   <br>
 
   
-<p align="center"> 👑🇧🇷 QR Code of the Site on Streamlist (Portuguese)
+<p align="center"> 👑🇧🇷 QR Code of the Site on Streamlist (Portuguese) </p>
 
 <p align="center">
   <img src="" />
+  </p>
 
   <br>
 
-<p align="center">:octocat: QR Code of the GitHub Repository
+<p align="center">:octocat: QR Code of the GitHub Repository </p>
 
+  <p align="center">
   <img src="RepositorioGitHub.png" alt="QR Code 2" width="200"/>
 </p>
 
