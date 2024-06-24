@@ -219,7 +219,7 @@ diamonds["depth"] = round(diamonds["depth"], 1)
 diamonds
 ```
 
-### Coefficient of Determination
+### Coefficient of Determination Grapahic
 
 
 <p align="center">
@@ -275,7 +275,7 @@ plt.grid(axis="y", alpha=0.5)
 
 plt.show()
 ```
-### Relationship of a diamond’s length with the carat and price
+### Relationship of a DDiamond’s Length with the Carat and Price Grapahic
 
 <p align="center">
   <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/3ec26597-e22b-4910-b422-f11b4720effe"/>
