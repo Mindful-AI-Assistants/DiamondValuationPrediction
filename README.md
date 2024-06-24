@@ -38,6 +38,9 @@ This repository contains a Python project for  analyzing a dataset of diamond ch
 #
 <!-- QR's Code -->
 
+https://diamondsvalues.streamlit.app/
+
+
 
 <p align="center"> 👑🇧🇷 QR Code of the Site on Streamlist </p>
 
