@@ -14,7 +14,6 @@ This repository contains a Python project for  analyzing a dataset of diamond ch
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Data Analyses Repot]()
 - [Dataset](#dataset)
 - [Methodology](#methodology)
 - [Findings](#findings)
@@ -27,11 +26,21 @@ This repository contains a Python project for  analyzing a dataset of diamond ch
 - [Getting Started Cloning](#getting-started)
 - [Contributing](#contributing)
 - [Git Commands](#GitCommands)
+- [Codes and Data Analysis Report](#Report)
 - [Access the Streamlit Site](https://diamondsvalues.streamlit.app/)  <!-- - [ Tap here and teleport to the site]() 🇺🇸  --> 
 - [QR Coides](#QRCodes)
 - [Our Team](#our-team)
 - [Code of Conduct](#code-of-conduct)
 - [License](#license)
+
+
+
+
+## Codes and Data Analysis Report
+
+- Codes
+
+- Data Analysis Report
 
 #
 
