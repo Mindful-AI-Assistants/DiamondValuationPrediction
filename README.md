@@ -10,6 +10,11 @@
 
 
 
+
+#
+<!-- QR's Code -->
+
+
 <p align="center"> 👑🇺🇸 QR Code of the Site on Streamlist (English) </p>
 
 <p align="center">
