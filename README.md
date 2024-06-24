@@ -483,19 +483,14 @@ git branch -d feature/my-feature
 
 - [Fabiana Campanari](https://github.com/FabianaCampanari)
 
-- [Gabriel Melo Dos Santos](https://github.com/Gabri3l-M)
-
-<!--
+- [Gabriel Melo Dos Santos](https://github.com/Gabr
 
 José Augusto de Souza Oliveira
 https://github.com/Jojose3
 
-Luan Augusto dos Santos Fabiano
-https://github.com/LuanFabiano28
+- [Luan Augusto dos Santos Fabiano](https://github.com/LuanFabiano28)
 
-Pedro Gallego Barenco
-https://github.com/Pgbarenco
--->
+- [Pedro Gallego Barenco](https://github.com/Pgbarenco)
 
 - [Pedro Vyctor Carvalho De Almeida](https://github.com/ppvyctor)
 
