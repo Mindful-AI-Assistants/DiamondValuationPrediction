@@ -36,7 +36,7 @@ This repository contains a Python project for  analyzing a dataset of diamond ch
 
 ## Streamlist Site Acess
 
-https://diamondsvalues.streamlit.app/
+[Tap here and teleport to the site](https://diamondsvalues.streamlit.app/)
 
 #
 
@@ -65,8 +65,6 @@ https://diamondsvalues.streamlit.app/
   <p align="center">
   <img src="RepositorioGitHub.png" alt="QR Code 2" width="200"/>
 </p>
-
-
 
 
 #
