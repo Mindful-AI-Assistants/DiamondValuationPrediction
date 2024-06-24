@@ -15,11 +15,15 @@
 <p align="center">
   <img src="Site.png" alt="QR Code 1" width="200"/>
 
+  <br>
+
   
 <p align="center"> 👑🇧🇷 QR Code of the Site on Streamlist (Portuguese)
 
 <p align="center">
   <img src="" />
+
+  <br>
 
 <p align="center">:octocat: QR Code of the GitHub Repository
 
