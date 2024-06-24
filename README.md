@@ -11,7 +11,10 @@
 
 
 
-
+<p align="center">
+  <img src="Site.png" alt="QR Code 1" width="200"/>
+  <img src="RepositorioGitHub.png" alt="QR Code 2" width="200"/>
+</p>
 
 
 
