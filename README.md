@@ -7,6 +7,10 @@
 
 # <p align="center">  💎 Diamond Valuation Prediction
 
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+
+
 <br>
 
 This repository contains a Python project for  analyzing a dataset of diamond characteristics and predicting their price using machine learning techniques.
