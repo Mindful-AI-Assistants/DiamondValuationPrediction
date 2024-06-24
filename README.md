@@ -240,7 +240,7 @@ except FileNotFoundError:
 
 2- **Points are equivalent to 0.01 carats**
 
-The graph below compares the relationship of the length of a diamond with the carat and with the price
+### The graph below compares the relationship of the length of a diamond with the carat and with the price
 
 ```python
 plt.figure(figsize=(17, 10))
