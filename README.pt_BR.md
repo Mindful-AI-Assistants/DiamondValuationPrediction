@@ -291,7 +291,8 @@ plt.grid(axis="y", alpha=0.5)
 plt.show()
 ```
 
-Relação do comprimento de um diamante com o quilate e o preço
+### Relação do comprimento de um diamante com o quilate e o preço
+
 <p align="center">
   <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/3ec26597-e22b-4910-b422-f11b4720effe'/>
 
