@@ -449,7 +449,7 @@ git branch -d feature/my-feature
 
 - n[Fabiana Campanari](https://github.com/FabianaCampanari)
 
-- [Gabriel Melo Dos Santos](https://github.com/Gabri3l-
+- [Gabriel Melo Dos Santos](https://github.com/Gabri3l-M)
 
 <!--
 
