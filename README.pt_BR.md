@@ -242,6 +242,64 @@ diamonds
 <p align="center">
   <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/9e748a04-bd7f-4639-b374-a8a62170f48f"/>
 
+### Modelo de Predição de Preço
+
+#### Salvando o banco de dados já limpo, sem valores ausentes
+
+```python
+path = r"DataBases\Diamonds_clean.csv"
+try:
+    pd.read_csv(f"{path}")
+    print(f"This dataframe already exists in the directory: {path}")
+except FileNotFoundError:
+    diamonds.to_csv(fr"{path}", index=False)
+    print(f'''Cleaned database added to directory:
+          {path}
+          successfully!!''')
+          ```
+          
+### Análise da relação do preço com as colunas numéricas
+
+#### INFORMAÇÕES IMPORTANTES:
+1- Um quilate é equivalente a 200mg
+
+2- Dois pontos são equivalentes a 0,01 quilates
+
+O gráfico abaixo compara a relação do comprimento de um diamante com o quilate e com o preço
+
+```python
+plt.figure(figsize=(17, 10))
+
+plt.subplot(2, 1, 1)
+sns.scatterplot(data=diamonds, x="x", y="price")
+plt.xlabel("Comprimento (mm)")
+plt.ylabel("Preço")
+plt.gca().spines["right"].set_visible(False)
+plt.gca().spines["top"].set_visible(False)
+plt.gca().spines["left"].set_visible(False)
+plt.grid(axis="y", alpha=0.5)
+
+plt.subplot(2, 1, 2)
+sns.scatterplot(data=diamonds, x="x", y="carat")
+plt.xlabel("Comprimento (mm)")
+plt.ylabel("Quilate")
+plt.gca().spines["right"].set_visible(False)
+plt.gca().spines["top"].set_visible(False)
+plt.gca().spines["left"].set_visible(False)
+plt.grid(axis="y", alpha=0.5)
+
+plt.show()
+```
+
+Relação do comprimento de um diamante com o quilate e o preço
+<p align="center">
+  <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/3ec26597-e22b-4910-b422-f11b4720effe'/>
+
+
+
+
+
+
 
 
 
