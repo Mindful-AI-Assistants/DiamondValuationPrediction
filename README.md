@@ -492,7 +492,7 @@ https://github.com/Pgbarenco
 -->
 
 - [Pedro Vyctor Carvalho De Almeida](https://github.com/ppvyctor)
-#
+
 
 ## 🫶 Código de Conduta
 
