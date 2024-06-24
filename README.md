@@ -29,7 +29,7 @@ This repository contains a Python project for  analyzing a dataset of diamond ch
 - [Our Team](#our-team)
 - [Code of Conduct](#code-of-conduct)
 - [Tap here and teleport to the site](https://diamondsvalues.streamlit.app/)  <!-- - [ Tap here and teleport to the site]() 🇺🇸  --> 
-- [QR's Coide]()
+- [QR Coides]()
 - [License](#license)
 
 #
@@ -40,7 +40,7 @@ This repository contains a Python project for  analyzing a dataset of diamond ch
 
 #
 
-## QR's Code
+## QR Codes
 
 <p align="center"> 👑 QR Code of the Site on Streamlist </p>
 
