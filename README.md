@@ -88,6 +88,23 @@ diamonds
 
 Below is the number of missing values per column
 
+ <br>
+
+```python
+counter = {}
+for x in range(diamonds.shape[1]):
+    column_name = diamonds.columns[x]
+    counter[column_name] = diamonds.shape[0] - len(diamonds[column_name].dropna())
+
+counter_df = pd.DataFrame(list(counter.items()), columns=['Coluna', 'Quantidade de NaN'])
+counter_df
+
+plt.figure(figsize = (8, 6))
+sns.heatmap((diamonds[["carat", "depth", "table", "price", "x", "y", "z"]]).corr(), vmin = -1, vmax = 1, annot = True, cmap = 'magma')
+plt.title("Coeficiente de Correlação Linear")
+plt.show()
+```
+
 #
 
 ## Codes and Data Analysis Report
