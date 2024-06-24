@@ -104,6 +104,22 @@ sns.heatmap((diamonds[["carat", "depth", "table", "price", "x", "y", "z"]]).corr
 plt.title("Coeficiente de Correlação Linear")
 plt.show()
 ```
+#
+
+Resource Engineering
+Analysis of the heat map above based on price:
+We can conclude that the price does not have a good correlation with the total percentage of the diamond (depth) and also does not have a high correlation with the table, with an inversely proportional correlation of -0.0086 with depth, and a proportional relationship of 0.13 with the table.
+We can also conclude that the price has a good linear correlation with the carat of 0.92, x (length) of 0.89, y (width) of 0.89, and z (depth) of 0.88.
+
+Based on this heat map analysis, we can conclude that the larger the carat, x (length), y (width), and z (depth), the higher the diamond's price can be.
+
+However, there may be some cases where a diamond has a very high carat but a low price, just as there may be diamonds with a low carat but a high price. This can also happen with x (length), y (width), and z (depth). Because of this, we question the following: how well can the carat, x (length), y (width), and z (depth) determine the value of the diamond? To answer this, we need to derive the Coefficient of Determination.
+
+#
+
+
+
+
 
 #
 
