@@ -52,7 +52,7 @@ This project explores the fascinating world of diamonds and seeks to predict the
 The purpose of this predictive analysis is to create a website that determines the price of a diamond based on its characteristics: carat, cut, color, clarity, price, depth, table, x (length), y (width), and z (depth). 
 However, in extreme cases where a quick estimate of a diamond’s value is needed, it is not feasible to spend time defining all these characteristics. Therefore, it is necessary to conduct a study of the database to determine what are the minimum necessary characteristics to accurately estimate the price of a diamond. To implement the project, it is essential to assess how each characteristic of the diamond influences its price. This requires discovering how the variability of a characteristic can affect the variability of the price. Therefore, the use of statistical strategies will be crucial to answer these questions and ensure the accuracy of the diamond value estimate
   
-#
+
 
 ## Dataset 📊
 
@@ -71,7 +71,7 @@ The dataset used in this project is "Diamonds_values_faltantes.csv" and includes
 | y | Width of the diamond in millimeters |
 | z | Depth of the diamond in millimeters |
 
-#
+
 
 ## Metodology 🛠️
 
