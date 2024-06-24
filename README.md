@@ -300,7 +300,8 @@ plt.show()
 
 ###  Relationship of a diamond’s width with the carat and price
 
-IMG$4
+![4  Relationship of a diamond’s width with the carat and price](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/a2b83a69-1570-4c76-85ba-3b98726160d4)
+
 
 ### The graph below compares the relationship of the depth of a diamond with the carat and with the price
 
