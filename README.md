@@ -329,9 +329,11 @@ plt.grid(axis = "y", alpha = 0.5)
 plt.show()
 ```
 
-###Relationship of the depth of a diamond with the carat and with the price
+### Relationship of the depth of a diamond with the carat and with the price
 
-IMG5
+<p align="center">
+  <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/8f17f4b1-2fbf-4eb2-80e4-8755c5422c51"/>
+
 
   
 
