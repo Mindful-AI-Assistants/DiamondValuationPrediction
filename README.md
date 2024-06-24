@@ -63,9 +63,9 @@ The dataset used in this project is "Diamonds_values_faltantes.csv" and includes
 
 #
 
-## Metodologia 🛠️
+## Metodology 🛠️
 
-### Carregamento e Exploração de Dados
+### Loading and Data Exploration
 
 ```python
 import pandas as pd
@@ -84,10 +84,9 @@ diamonds = pd.read_csv(fr"{path}")
 diamonds
 ```
 
-###  Visualização do coeficiente de correlação linear e separação do conjunto de dados, para melhor implementação do KNN.
+###  Visualization of the linear correlation coefficient and separation of the dataset, for better KNN implementation. 
 
- Abaixo está a quantidade de valores faltantes por coluna
-
+Below is the number of missing values per column
 
 #
 
