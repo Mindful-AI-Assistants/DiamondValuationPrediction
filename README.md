@@ -41,7 +41,7 @@ This repository contains a Python project for  analyzing a dataset of diamond ch
 
 ## Codes and Data Analysis Report
 
-- []Codes]()
+- [DiamondValuationPredictio.py](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/blob/50d1ec6c1074be9848ad472ff1955aad541d1ae2/Codes/Codes%20English/Codes%20Portugues/Codes%20%20English/diamondvaluationenglish.py)
 
 - []Codes]()
 
