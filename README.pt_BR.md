@@ -256,11 +256,12 @@ except FileNotFoundError:
     print(f'''Cleaned database added to directory:
           {path}
           successfully!!''')
-          ```
+```
           
 ### Análise da relação do preço com as colunas numéricas
 
 #### INFORMAÇÕES IMPORTANTES:
+
 1- Um quilate é equivalente a 200mg
 
 2- Dois pontos são equivalentes a 0,01 quilates
@@ -294,7 +295,7 @@ plt.show()
 ### Relação do comprimento de um diamante com o quilate e o preço
 
 <p align="center">
-  <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/3ec26597-e22b-4910-b422-f11b4720effe'/>
+  <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/3ec26597-e22b-4910-b422-f11b4720effe"/>
 
 
 
