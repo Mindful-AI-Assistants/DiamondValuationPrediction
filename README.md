@@ -2,10 +2,20 @@
  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
   <!--  START HEADER  -->  
 
-<br><br>
+![Storytelling](https://github.com/MindfulAI-Copilots-Bots/Storytelling/assets/113218619/0f827a6e-5e03-42d7-b8bb-c11ba2f029e0)
+
+<br>
+
+## <p align="center">  🎭  STORYTELLING 
+#### <p align="center"> **for Data Science and Artificial Intelligence - PUC-SP University** </p>
+
+
+
+<br>
 
 
 # <p align="center">  💎 Diamond Valuation Prediction
+#### <p align="center">🎭  A Project develped for STORYTELLING **for Data Science and Artificial Intelligence - PUC-SP University** </p>
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
