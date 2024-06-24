@@ -140,6 +140,29 @@ Já para x (comprimento), y (largura) e z (profundidade), essa confiabilidade é
 
 Colocando medições iguais a 0 de comprimento, largura e/ou profundidade de um diamante como NaN
 
+```python
+for x in range(diamonds.shape[0]):
+    for y in range(7, diamonds.shape[1]):
+        if diamonds.iloc[x, y] == 0: diamonds.iloc[x, y] = np.nan
+        elif diamonds.iloc[x, y] >= 30: diamonds.iloc[x, y] = np.nan
+diamonds
+```
+
+### Below is the implementation of K-NN in the numerical columns
+
+Some books advise using the formula (K = log n) where n is the number of rows in the database.
+To thus define the amount of K.'''
+
+```python
+classificacao = KNNImputer(n_neighbors = round(math.log(diamonds.shape[0])))
+diamonds[["carat", "depth", "table", "price", "x", "y", "z"]] = classificacao.fit_transform(diamonds[["carat", "depth", "table", "price", "x", "y", "z"]])
+
+diamonds
+'''
+
+### Applying K-NN for categorical columns
+
+
 
 
 
