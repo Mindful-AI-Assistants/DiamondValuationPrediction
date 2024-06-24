@@ -7,6 +7,9 @@
 
 # <p align="center">  💎 Diamond Valuation Prediction
 
+This repository contains a Python project for  analyzing a dataset of diamond characteristics and predicting their price using machine learning techniques.
+
+
 
 
 
