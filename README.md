@@ -23,7 +23,7 @@ This repository contains a Python project for  analyzing a dataset of diamond ch
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
 - [File Structure](#file-structure)
-- [Getting Started](#getting-started)
+- [Getting Started Cloning](#getting-started)
 - [Contributing](#contributing)
 - [Git Commands](#GitCommands)
 - [License](#license)
