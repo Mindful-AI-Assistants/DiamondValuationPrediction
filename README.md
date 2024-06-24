@@ -11,6 +11,25 @@
 
 This repository contains a Python project for  analyzing a dataset of diamond characteristics and predicting their price using machine learning techniques.
 
+## Table of Contents
+
+- [Introduction](#introduction) 
+- [Dataset](#dataset)
+- [Methodology](#methodology)
+- [Findings](#findings)
+- [Analysis of Numerical Features](#analysis-of-numerical-features)
+- [Analysis of Categorical Features](#analysis-of-categorical-features)
+- [Insights](#insights)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
+- [File Structure](#file-structure)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+- [Our Team](#our-team)
+- [Code of Conduct](#code-of-conduct)
+
+
 
 
 
