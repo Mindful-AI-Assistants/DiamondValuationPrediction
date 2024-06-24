@@ -43,6 +43,24 @@ Sent by you: traduza Ingles O propósito deste projeto é criar um site que defi
 
 #
   
+## Conjunto de Dados 📊
+
+O conjunto de dados utilizado neste projeto é "Diamonds_values_faltantes.csv" e inclui as seguintes colunas:
+
+| Nome da Coluna | Descrição |
+|---|---|
+| quilate | Peso do diamante em quilates |
+| corte | Qualidade do corte do diamante (Ideal, Premium, Muito Bom, Bom, Regular) |
+| cor | Cor do diamante (D, E, F, G, H, I, J) |
+| clareza | Clareza do diamante (IF, VVS1, VVS2, VS1, VS2, SI1, SI2, I1) |
+| profundidade | Porcentagem da profundidade do diamante |
+| mesa | Porcentagem da largura da mesa do diamante |
+| preço | Preço do diamante em dólares americanos |
+| x | Comprimento do diamante em milímetros |
+| y | Largura do diamante em milímetros |
+| z | Profundidade do diamante em milímetros |
+
+#
 
 
 
