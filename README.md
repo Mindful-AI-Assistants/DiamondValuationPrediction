@@ -350,6 +350,11 @@ plt.grid(axis = "y", alpha = 0.5)
 plt.show()
 ```
 
+### Relationship of the carat of a diamond with the price
+
+<p align="center">
+  <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/ba6b45cd-e624-4dfa-85a9-8b8a1cde832b"/>
+
   
 
 
