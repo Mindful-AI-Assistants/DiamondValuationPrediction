@@ -13,7 +13,8 @@ This repository contains a Python project for  analyzing a dataset of diamond ch
 
 ## Table of Contents
 
-- [Introduction](#introduction) 
+- [Introduction](#introduction)
+- [Data Analyses Repot]()
 - [Dataset](#dataset)
 - [Methodology](#methodology)
 - [Findings](#findings)
