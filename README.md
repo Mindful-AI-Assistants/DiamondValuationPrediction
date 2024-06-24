@@ -25,6 +25,7 @@ This repository contains a Python project for  analyzing a dataset of diamond ch
 - [File Structure](#file-structure)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
+- [Git Commands](#GitCommands)
 - [License](#license)
 - [Our Team](#our-team)
 - [Code of Conduct](#code-of-conduct)
