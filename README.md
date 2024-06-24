@@ -181,6 +181,8 @@ diamonds_imputer = pd.DataFrame(diamonds_imputer, columns = diamonds.columns)
 diamonds_imputer = encoder.inverse_transform(diamonds_imputer)
 ```
 
+IMAGW1
+
 #### Replacing missing values in the main diamonds database
 
 ```python
@@ -191,9 +193,11 @@ for x in range(diamonds.shape[0]):
             diamonds.iloc[x, y] = diamonds_imputer[x][y]
 
 diamonds
+```
+
 Below we are normalizing the numerical columns.
-python
-Copy code
+
+```python
 standardization of numerical columns
 diamonds[["carat", "x", "y", "z"]] = round(diamonds[["carat", "x", "y", "z"]], 2)
 diamonds[["table", "price"]] = round(diamonds[["table", "price"]])
@@ -202,9 +206,11 @@ diamonds["depth"] = round(diamonds["depth"], 1)
 diamonds
 ```
 
-#### Price Prediction Model
+IMa 2
 
-### Saving the already cleaned database without missing values
+### Price Prediction Model
+
+#### Saving the already cleaned database without missing values
 
 ```Python
 path = r"DataBases\Diamonds_clean.csv"
