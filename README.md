@@ -39,7 +39,7 @@ This repository contains a Python project for  analyzing a dataset of diamond ch
 <!-- QR's Code -->
 
 
-<p align="center"> 👑🇺🇸 QR Code of the Site on Streamlist (English) </p>
+<p align="center"> 👑🇧🇷 QR Code of the Site on Streamlist </p>
 
 <p align="center">
   <img src="Site.png" alt="QR Code 1" width="200"/>
@@ -48,7 +48,7 @@ This repository contains a Python project for  analyzing a dataset of diamond ch
   <br>
 
   
-<p align="center"> 👑🇧🇷 QR Code of the Site on Streamlist (Portuguese) </p>
+<p align="center"> 👑🇺🇸 QR Code of the Site on Streamlist (English)  (Portuguese) </p>
 
 <p align="center">
   <img src="" />
