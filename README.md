@@ -355,37 +355,123 @@ plt.show()
 <p align="center">
   <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/ba6b45cd-e624-4dfa-85a9-8b8a1cde832b"/>
 
-  
+  #
 
 
+  Descobertas 🔍
 
+Análise de Recursos Numéricos:
+Quilate: O preditor mais forte do preço do diamante, com um coeficiente de determinação de 85%.
+Comprimento, Largura, Profundidade: Embora correlacionados com o preço, esses recursos têm um relacionamento mais fraco em comparação com o quilate. Esses recursos são mais úteis para prever o peso do diamante (quilate) do que o preço.
+Análise de Recursos Categóricos:
+Corte, Cor, Clareza: Esses recursos não são diretamente correlacionados com o preço. No entanto, analisar sua distribuição em diferentes intervalos de preços revela insights sobre como esses fatores influenciam a faixa de preços. Por exemplo, uma porcentagem maior de diamantes com corte "Ideal" pode ser encontrada em faixas de preços mais altas.
+Insights 💡
+O preditor mais confiável do preço de um diamante é seu peso em quilates.
+Embora comprimento, largura e profundidade sejam correlacionados com o preço, seu relacionamento é mais fraco do que o quilate, sugerindo que essas dimensões são mais úteis para determinar o peso.
+Recursos categóricos como corte, cor e clareza não são diretamente correlacionados com o preço, mas podem fornecer uma indicação geral da faixa de preços.
+Uma combinação de recursos numéricos e categóricos pode ser usada para construir um modelo de previsão de preços mais preciso.
+Recomendações 📈
+Explore modelos de aprendizado de máquina mais complexos (por exemplo, florestas aleatórias, máquinas de vetores de suporte) para melhorar potencialmente a precisão da previsão.
+Analise a distribuição de recursos categóricos em diferentes faixas de preços para entender melhor sua influência.
+Considere incorporar outros recursos relevantes, como certificação de diamante, origem e gravidade específica, para aumentar o poder preditivo do modelo.
+Conclusão 🎉
+Este projeto de análise de dados identificou com sucesso os recursos-chave que impactam o preço do diamante e demonstrou a importância da engenharia de recursos na construção de modelos de previsão precisos. Ao entender as relações entre as características dos diamantes e o preço, esta análise pode informar estratégias de preços para varejistas de diamantes e fornecer insights valiosos para os consumidores.
+Observação: Este relatório é baseado no trecho de código fornecido. Mais detalhes sobre o modelo de previsão e seu desempenho não estão disponíveis e exigiriam informações adicionais.
+Estrutura de Arquivos 📁
+└── 🇺🇸 diamondValuationEnglish.ipynb
+    └── 🇺🇸 diamondValuationEnglish.py
+    └── 🇧🇷 avaliacaoDiamante.inpyb
+    └── 🇧🇷 avaliacaoDiamante
+    
 
+## 👌 **Clone the Repository:**
 
+```bash
+git clone https://github.com/[your-username]/diamond-price-prediction.git
+```
 
+Install Required Packages:
+```
+pip install -r requirements.txt
+```
 
+#
 
+## 🤝 Contribuindo
 
+Contributions are welcome! Please feel free to submit issues and pull requests.
 
+#
 
+## 💻 Git Commands 
 
+Create a new branch:
 
+ ```
+git checkout -b feature/my-feature
+```
 
+#### Add changes to staging area: git add
 
+Commit changes:
+```
+git commit -m "feat: Implemented new feature"
+```
 
+Push changes to remote: 
 
+```
+git push origin feature/my-feature
+```
 
+Create a pull request
 
+```
+[Repo Link]
+(https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/edit/main/READ)
+```
+
+Merge changes:
+
+```
+git merge feature/my-feature
+```
+
+Delete branch:
+
+```
+git branch -d feature/my-feature
+```
+
+#
+
+## 👥 Nosso Time 
+
+Fabiana 🚀 Campanari
+Gabriel Melo Dos Santos
+José Augusto de Souza Oliveira
+Luan Augusto dos Santos Fabiano
+Pedro Gallego Barenco
+Pedro Vyctor Carvalho De Almeida
+
+#
+
+## 🫶 Código de Conduta
+
+#
+
+Estamos comprometidos em promover uma comunidade acolhedora e inclusiva para todos os colaboradores. Esperamos que todos respeitem os seguintes princípios:
+Seja respeitoso: Trate os outros com cortesia e respeito, independentemente de sua origem, identidade ou opiniões.
+Seja construtivo: Concentre-se em fornecer feedback útil e críticas construtivas.
+Seja de mente aberta: Esteja aberto a diferentes perspectivas e ideias.
+Seja responsável: Assuma responsabilidade por suas ações e palavras.
+Seja inclusivo: Promova um ambiente acolhedor e inclusivo para todos.
+Se você testemunhar qualquer violação deste código de conduta, entre em contato com [your contact information] para que possamos lidar com a situação de forma adeq
 
 
 #
 
-
-
-
-
-#
-
-## Codes and Data Analysis Report
+## 👩🏽‍💻  Codes and Data Analysis Report
 
 - [DiamondValuationPredictio.py](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/blob/50d1ec6c1074be9848ad472ff1955aad541d1ae2/Codes/Codes%20English/Codes%20Portugues/Codes%20%20English/diamondvaluationenglish.py)
 
@@ -395,7 +481,7 @@ plt.show()
 
 #
 
-## Access the Streamlist Site
+## 👑 Access the Streamlist Site
 
 🚀 [Tap here and teleport to the Streamlit Site](https://diamondsvalues.streamlit.app/) 
 
@@ -403,7 +489,7 @@ plt.show()
 
 ## QR Codes
 
-<p align="center"> 👑 QR Code of the Site on Streamlit </p>
+#### <p align="center"> 👑 QR Code of the Site on Streamlit </p>
 
 <p align="center">
   <img src="Site.png" alt="QR Code 1" width="200"/>
@@ -417,11 +503,9 @@ plt.show()
 <p align="center">
   <img src="" />
   </p>
+-->
 
-  <br>
-  -->
-
-<p align="center">:octocat: QR Code of the GitHub Repository </p>
+#### <p align="center">:octocat: QR Code of the GitHub Repository </p>
 
   <p align="center">
   <img src="RepositorioGitHub.png" alt="QR Code 2" width="200"/>
