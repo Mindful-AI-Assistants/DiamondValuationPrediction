@@ -181,7 +181,8 @@ diamonds_imputer = pd.DataFrame(diamonds_imputer, columns = diamonds.columns)
 diamonds_imputer = encoder.inverse_transform(diamonds_imputer)
 ```
 
-IMAGW1
+<p align="center">
+  <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/22ab9ccb-3e3d-4884-9700-3cdd2811461a"
 
 #### Replacing missing values in the main diamonds database
 
