@@ -117,7 +117,7 @@ plt.show()
 
 ### Resource Engineering
 
-### Analysis of the heat map above based on price:
+#### Analysis of the heat map above based on price:
 
 We can conclude that the price does not have a good correlation with the total percentage of the diamond (depth) and also does not have a high correlation with the table, with an inversely proportional correlation of -0.0086 with depth, and a proportional relationship of 0.13 with the table.
 We can also conclude that the price has a good linear correlation with the carat of 0.92, x (length) of 0.89, y (width) of 0.89, and z (depth) of 0.88.
