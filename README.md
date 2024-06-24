@@ -509,13 +509,14 @@ Se você testemunhar qualquer violação deste código de conduta, entre em cont
 
 ## 👑 Access the Streamlist Site
 
-🚀 [Tap here and teleport to the Streamlit Site](https://diamondsvalues.streamlit.app/) 
+<br>
 
+🚀 [Tap here and teleport to the Streamlit Site](https://diamondsvalues.streamlit.app/) 
 
 
 ## QR Codes
 
-#### <p align="center"> 👑 QR Code of the Site on Streamlit </p>
+### <p align="center"> 👑 QR Code of the Site on Streamlit </p>
 
 <p align="center">
   <img src="Site.png" alt="QR Code 1" width="200"/>
@@ -531,7 +532,7 @@ Se você testemunhar qualquer violação deste código de conduta, entre em cont
   </p>
 -->
 
-#### <p align="center">:octocat: QR Code of the GitHub Repository </p>
+### <p align="center">:octocat: QR Code of the GitHub Repository </p>
 
   <p align="center">
   <img src="RepositorioGitHub.png" alt="QR Code 2" width="200"/>
