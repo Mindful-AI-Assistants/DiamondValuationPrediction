@@ -358,31 +358,55 @@ plt.show()
   #
 
 
-  Descobertas 🔍
+##  🔍 Descobertas 
 
-Análise de Recursos Numéricos:
+####Análise de Recursos Numéricos:
+
 Quilate: O preditor mais forte do preço do diamante, com um coeficiente de determinação de 85%.
 Comprimento, Largura, Profundidade: Embora correlacionados com o preço, esses recursos têm um relacionamento mais fraco em comparação com o quilate. Esses recursos são mais úteis para prever o peso do diamante (quilate) do que o preço.
-Análise de Recursos Categóricos:
+
+#### Análise de Recursos Categóricos:
+
+
 Corte, Cor, Clareza: Esses recursos não são diretamente correlacionados com o preço. No entanto, analisar sua distribuição em diferentes intervalos de preços revela insights sobre como esses fatores influenciam a faixa de preços. Por exemplo, uma porcentagem maior de diamantes com corte "Ideal" pode ser encontrada em faixas de preços mais altas.
-Insights 💡
+
+#
+
+## 💡 Insights 
+
+
 O preditor mais confiável do preço de um diamante é seu peso em quilates.
 Embora comprimento, largura e profundidade sejam correlacionados com o preço, seu relacionamento é mais fraco do que o quilate, sugerindo que essas dimensões são mais úteis para determinar o peso.
 Recursos categóricos como corte, cor e clareza não são diretamente correlacionados com o preço, mas podem fornecer uma indicação geral da faixa de preços.
 Uma combinação de recursos numéricos e categóricos pode ser usada para construir um modelo de previsão de preços mais preciso.
-Recomendações 📈
+
+#
+
+## 📈 Recomendações 
+
 Explore modelos de aprendizado de máquina mais complexos (por exemplo, florestas aleatórias, máquinas de vetores de suporte) para melhorar potencialmente a precisão da previsão.
+
 Analise a distribuição de recursos categóricos em diferentes faixas de preços para entender melhor sua influência.
+
 Considere incorporar outros recursos relevantes, como certificação de diamante, origem e gravidade específica, para aumentar o poder preditivo do modelo.
-Conclusão 🎉
+
+#
+
+##Conclusão 🎉
+
+
 Este projeto de análise de dados identificou com sucesso os recursos-chave que impactam o preço do diamante e demonstrou a importância da engenharia de recursos na construção de modelos de previsão precisos. Ao entender as relações entre as características dos diamantes e o preço, esta análise pode informar estratégias de preços para varejistas de diamantes e fornecer insights valiosos para os consumidores.
+
 Observação: Este relatório é baseado no trecho de código fornecido. Mais detalhes sobre o modelo de previsão e seu desempenho não estão disponíveis e exigiriam informações adicionais.
+
 Estrutura de Arquivos 📁
 └── 🇺🇸 diamondValuationEnglish.ipynb
     └── 🇺🇸 diamondValuationEnglish.py
     └── 🇧🇷 avaliacaoDiamante.inpyb
     └── 🇧🇷 avaliacaoDiamante
-    
+
+#
+
 
 ## 👌 **Clone the Repository:**
 
@@ -447,7 +471,7 @@ git branch -d feature/my-feature
 
 ## 👥 Nosso Time 
 
-- n[Fabiana Campanari](https://github.com/FabianaCampanari)
+- [Fabiana Campanari](https://github.com/FabianaCampanari)
 
 - [Gabriel Melo Dos Santos](https://github.com/Gabri3l-M)
 
