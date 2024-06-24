@@ -407,7 +407,7 @@ File Structure 📁
     └── 🇧🇷 avaliacaoDiamante.inpyb
     └── 🇧🇷 avaliacaoDiamante
 
-## 👌 **Clone the Repository:**
+## 👌 ** Clone this Repository:**
 
 ```bash
 git clone https://github.com/[your-username]/diamond-price-prediction.git
@@ -418,9 +418,7 @@ Install Required Packages:
 pip install -r requirements.txt
 ```
 
-#
-
-## 🤝 Contribuindo
+## 🤝 Cotribute
 
 Contributions are welcome! Please feel free to submit issues and pull requests.
 
