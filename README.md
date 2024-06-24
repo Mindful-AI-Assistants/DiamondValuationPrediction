@@ -383,31 +383,29 @@ Categorical features such as cut, color, and clarity are not directly correlated
 A combination of numerical and categorical features can be used to build a more accurate price prediction model.
 
 
-## 📈 Recomendações 
+Here is the English translation of your text:
 
-Explore modelos de aprendizado de máquina mais complexos (por exemplo, florestas aleatórias, máquinas de vetores de suporte) para melhorar potencialmente a precisão da previsão.
+## 📈 Recommendations 
 
-Analise a distribuição de recursos categóricos em diferentes faixas de preços para entender melhor sua influência.
+Explore more complex machine learning models (for example, random forests, support vector machines) to potentially improve prediction accuracy.
 
-Considere incorporar outros recursos relevantes, como certificação de diamante, origem e gravidade específica, para aumentar o poder preditivo do modelo.
+Analyze the distribution of categorical features in different price ranges to better understand their influence.
 
-#
+Consider incorporating other relevant features, such as diamond certification, origin, and specific gravity, to increase the predictive power of the model.
 
-##Conclusão 🎉
+Here is the English translation of your text:
 
+## 🎉 Conclusion 
 
-Este projeto de análise de dados identificou com sucesso os recursos-chave que impactam o preço do diamante e demonstrou a importância da engenharia de recursos na construção de modelos de previsão precisos. Ao entender as relações entre as características dos diamantes e o preço, esta análise pode informar estratégias de preços para varejistas de diamantes e fornecer insights valiosos para os consumidores.
+This data analysis project has successfully identified the key features that impact the price of a diamond and demonstrated the importance of feature engineering in building accurate prediction models. By understanding the relationships between the characteristics of diamonds and the price, this analysis can inform pricing strategies for diamond retailers and provide valuable insights for consumers.
 
-Observação: Este relatório é baseado no trecho de código fornecido. Mais detalhes sobre o modelo de previsão e seu desempenho não estão disponíveis e exigiriam informações adicionais.
+Note: This report is based on the provided code snippet. More details about the prediction model and its performance are not available and would require additional information.
 
-Estrutura de Arquivos 📁
+File Structure 📁
 └── 🇺🇸 diamondValuationEnglish.ipynb
     └── 🇺🇸 diamondValuationEnglish.py
     └── 🇧🇷 avaliacaoDiamante.inpyb
     └── 🇧🇷 avaliacaoDiamante
-
-
-
 
 ## 👌 **Clone the Repository:**
 
@@ -468,16 +466,14 @@ Delete branch:
 git branch -d feature/my-feature
 ```
 
-#
 
 ## 👥 Nosso Time 
 
-- [Fabiana Campanari](https://github.com/FabianaCampanari)
+- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
-- [Gabriel Melo Dos Santos](https://github.com/Gabr
+- [Gabriel Melo Dos Santos](https://github.com/Gabri3l-M)
 
-José Augusto de Souza Oliveira
-https://github.com/Jojose3
+- [José Augusto de Souza Oliveira](https://github.com/Jojose3)
 
 - [Luan Augusto dos Santos Fabiano](https://github.com/LuanFabiano28)
 
@@ -488,7 +484,6 @@ https://github.com/Jojose3
 
 ## 🫶 Código de Conduta
 
-#
 
 Estamos comprometidos em promover uma comunidade acolhedora e inclusiva para todos os colaboradores. Esperamos que todos respeitem os seguintes princípios:
 Seja respeitoso: Trate os outros com cortesia e respeito, independentemente de sua origem, identidade ou opiniões.
@@ -498,24 +493,27 @@ Seja responsável: Assuma responsabilidade por suas ações e palavras.
 Seja inclusivo: Promova um ambiente acolhedor e inclusivo para todos.
 Se você testemunhar qualquer violação deste código de conduta, entre em contato com [your contact information] para que possamos lidar com a situação de forma adeq
 
-
-#
-
 ## 👩🏽‍💻  Codes and Data Analysis Report
+
+### Codes:
 
 - [DiamondValuationPredictio.py](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/blob/50d1ec6c1074be9848ad472ff1955aad541d1ae2/Codes/Codes%20English/Codes%20Portugues/Codes%20%20English/diamondvaluationenglish.py)
 
 - [DiamondValuationPrediction.ipynb](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/blob/1770a467185ea56dffdede68b81f730bcff8ead4/Codes/Codes%20English/Codes%20Portugues/Codes%20%20English/diamondValuationEnglish.ipynb)
 
+<br>
+
+### Data Analysis Report:  
+
 - [Data Analysis Report](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/blob/d70469f8420bba79f97ed01cbac5234659503a79/Data%20Analyze%20Report/Data%20Analyse%20Portugues/avaliacaoDiamantePortugues%20.pdf)
 
-#
+
 
 ## 👑 Access the Streamlist Site
 
 🚀 [Tap here and teleport to the Streamlit Site](https://diamondsvalues.streamlit.app/) 
 
-#
+
 
 ## QR Codes
 
