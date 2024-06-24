@@ -62,6 +62,50 @@ O conjunto de dados utilizado neste projeto é "Diamonds_values_faltantes.csv" e
 
 #
 
+## Metodologia 🛠️
+
+### Carregamento e Exploração de Dados
+
+```python
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+import math
+import numpy as np
+from sklearn.impute import KNNImputer
+from sklearn.preprocessing import OrdinalEncoder
+
+import random
+# Mudar o caminho da base de dados
+path = r"DataBases\Diamonds_values_faltantes.csv"
+diamonds = pd.read_csv(fr"{path}")
+
+diamonds
+```
+
+###  Visualização do coeficiente de correlação linear e separação do conjunto de dados, para melhor implementação do KNN.
+
+ Abaixo está a quantidade de valores faltantes por coluna
+
+ <br>
+
+```python
+counter = {}
+for x in range(diamonds.shape[1]):
+    column_name = diamonds.columns[x]
+    counter[column_name] = diamonds.shape[0] - len(diamonds[column_name].dropna())
+
+counter_df = pd.DataFrame(list(counter.items()), columns=['Coluna', 'Quantidade de NaN'])
+counter_df
+
+plt.figure(figsize = (8, 6))
+sns.heatmap((diamonds[["carat", "depth", "table", "price", "x", "y", "z"]]).corr(), vmin = -1, vmax = 1, annot = True, cmap = 'magma')
+plt.title("Coeficiente de Correlação Linear")
+plt.show()
+```
+
+### Engenharia de Recursos
+
 
 
 
