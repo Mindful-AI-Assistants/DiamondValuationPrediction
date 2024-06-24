@@ -32,17 +32,13 @@ This repository contains a Python project for  analyzing a dataset of diamond ch
 - [QR's Coide]()
 - [License](#license)
 
-
-
-
-
-
 #
-<!-- QR's Code -->
 
 https://diamondsvalues.streamlit.app/
 
+#
 
+## QR's Code
 
 <p align="center"> 👑 QR Code of the Site on Streamlist </p>
 
