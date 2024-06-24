@@ -175,9 +175,7 @@ diamonds[["carat", "depth", "table", "price", "x", "y", "z"]] = classification.f
 diamonds
 ```
 
-### Applying K-NN for categorical columns
-
-#### Applying K-NN for categorical columns
+### Applying K-NN for Categorical Columns Algorithm
 
 ```python
 Copy code
@@ -191,7 +189,7 @@ diamonds_imputer = pd.DataFrame(diamonds_imputer, columns = diamonds.columns)
 diamonds_imputer = encoder.inverse_transform(diamonds_imputer)
 ```
 
-### Angular Coefficient
+### Angular Coefficient Graphics
 
 <p align="center">
   <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/22ab9ccb-3e3d-4884-9700-3cdd2811461a"
@@ -219,7 +217,7 @@ diamonds["depth"] = round(diamonds["depth"], 1)
 diamonds
 ```
 
-### Coefficient of Determination Grapahic
+### Coefficient of Determination Graphic
 
 
 <p align="center">
@@ -242,7 +240,7 @@ except FileNotFoundError:
           successfully!!''')
 ```
 
-### Analysis of the price relationship of the numerical columns
+### Analysis of the Price Relationship of the Numerical Columns
 
 #### **IMPORTANT INFORMATION:**
 
@@ -250,7 +248,7 @@ except FileNotFoundError:
 
 2- **Points are equivalent to 0.01 carats**
 
-### The graph below compares the relationship of the length of a diamond with the carat and with the price
+#### The graph below compares the relationship of the length of a diamond with the carat and with the price
 
 ```python
 plt.figure(figsize=(17, 10))
@@ -275,7 +273,7 @@ plt.grid(axis="y", alpha=0.5)
 
 plt.show()
 ```
-### Relationship of a DDiamond’s Length with the Carat and Price Grapahic
+### Relationship of a Diamond’s Length with the Carat and Price Graphic
 
 <p align="center">
   <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/3ec26597-e22b-4910-b422-f11b4720effe"/>
@@ -308,7 +306,7 @@ plt.grid(axis = "y", alpha = 0.5)
 plt.show()
 ```
 
-###  Relationship of a diamond’s width with the carat and price
+###  Relationship of a Diamond’s Width with the Carat and Price
 
 ![4  Relationship of a diamond’s width with the carat and price](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/a2b83a69-1570-4c76-85ba-3b98726160d4)
 
