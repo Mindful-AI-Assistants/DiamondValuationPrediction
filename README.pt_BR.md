@@ -159,7 +159,77 @@ diamonds[["carat", "depth", "table", "price", "x", "y", "z"]] = classificacao.fi
 diamonds
 ```
 
-### Applying K-NN for categorical columns
+### Aplicando K-NN for categorical columns
+
+```python
+'''KNN for categorical values'''
+encoder = OrdinalEncoder()
+diamonds_encoder = encoder.fit_transform(diamonds)
+
+knn_imputer = KNNImputer(n_neighbors = round(math.log(diamonds.shape[0])))
+diamonds_imputer = knn_imputer.fit_transform(diamonds_encoder)
+```
+
+
+diamonds_imputer = pd.DataFrame(diamonds_imputer, columns = diamonds.columns)
+diamonds_imputer = encoder.inverse_transform(diamonds_imputer)
+
+###  Replacing missing values in the main diamonds database
+
+```python
+for x in range(diamonds.shape[0]):
+    for y in range(1, 4):
+        if pd.isna(diamonds.iloc[x, y]): diamonds.iloc[x, y] = diamonds_imputer[x][y]
+
+diamonds
+```
+
+### Below we are normalizing the numerical columns.
+
+```python
+standardization of numerical columns
+diamonds[["carat", "x", "y", "z"]] = round(diamonds[["carat", "x", "y", "z"]], 2)
+diamonds[["table", "price"]] = round(diamonds[["table", "price"]])
+diamonds["depth"] = round(diamonds["depth"], 1)
+
+diamonds
+```
+
+
+### Aplicando K-NN for categorical columns
+
+```python
+'''KNN for categorical values'''
+encoder = OrdinalEncoder()
+diamonds_encoder = encoder.fit_transform(diamonds)
+
+knn_imputer = KNNImputer(n_neighbors = round(math.log(diamonds.shape[0])))
+diamonds_imputer = knn_imputer.fit_transform(diamonds_encoder)
+
+diamonds_imputer = pd.DataFrame(diamonds_imputer, columns = diamonds.columns)
+diamonds_imputer = encoder.inverse_transform(diamonds_imputer)
+```
+
+###  Replacing missing values in the main diamonds database
+
+```python
+for x in range(diamonds.shape[0]):
+    for y in range(1, 4):
+        if pd.isna(diamonds.iloc[x, y]): diamonds.iloc[x, y] = diamonds_imputer[x][y]
+
+diamonds
+```
+
+### Below we are normalizing the numerical columns.
+
+```python
+standardization of numerical columns
+diamonds[["carat", "x", "y", "z"]] = round(diamonds[["carat", "x", "y", "z"]], 2)
+diamonds[["table", "price"]] = round(diamonds[["table", "price"]])
+diamonds["depth"] = round(diamonds["depth"], 1)
+
+diamonds
+```
 
 
 
