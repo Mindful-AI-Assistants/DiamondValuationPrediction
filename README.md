@@ -44,6 +44,26 @@ However, in extreme cases where a quick estimate of a diamond’s value is neede
   
 #
 
+## Dataset 📊
+
+The dataset used in this project is "Diamonds_values_faltantes.csv" and includes the following columns:
+
+| Column Name | Description |
+|---|---|
+| carat | Weight of the diamond in carats |
+| cut | Quality of the diamond's cut (Ideal, Premium, Very Good, Good, Fair) |
+| color | Color of the diamond (D, E, F, G, H, I, J) |
+| clarity | Clarity of the diamond (IF, VVS1, VVS2, VS1, VS2, SI1, SI2, I1) |
+| depth | Percentage of the diamond's depth |
+| table | Percentage of the diamond's table width |
+| price | Price of the diamond in US dollars |
+| x | Length of the diamond in millimeters |
+| y | Width of the diamond in millimeters |
+| z | Depth of the diamond in millimeters |
+
+
+#
+
 ## Codes and Data Analysis Report
 
 - [DiamondValuationPredictio.py](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/blob/50d1ec6c1074be9848ad472ff1955aad541d1ae2/Codes/Codes%20English/Codes%20Portugues/Codes%20%20English/diamondvaluationenglish.py)
