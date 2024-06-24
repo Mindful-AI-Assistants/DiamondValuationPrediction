@@ -28,7 +28,7 @@ This repository contains a Python project for  analyzing a dataset of diamond ch
 - [Git Commands](#GitCommands)
 - [Our Team](#our-team)
 - [Code of Conduct](#code-of-conduct)
-- [ Tap here and teleport to the site]() 🇺🇸
+<!-- - [ Tap here and teleport to the site]() 🇺🇸  -->
 - [Tap here and teleport to the site](https://diamondsvalues.streamlit.app/) 🇧🇷 
 - [QR's Coide]()
 - [License](#license)
