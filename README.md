@@ -61,6 +61,33 @@ The dataset used in this project is "Diamonds_values_faltantes.csv" and includes
 | y | Width of the diamond in millimeters |
 | z | Depth of the diamond in millimeters |
 
+#
+
+## Metodologia 🛠️
+
+### Carregamento e Exploração de Dados
+
+```python
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+import math
+import numpy as np
+from sklearn.impute import KNNImputer
+from sklearn.preprocessing import OrdinalEncoder
+
+import random
+# Mudar o caminho da base de dados
+path = r"DataBases\Diamonds_values_faltantes.csv"
+diamonds = pd.read_csv(fr"{path}")
+
+diamonds
+```
+
+###  Visualização do coeficiente de correlação linear e separação do conjunto de dados, para melhor implementação do KNN.
+
+ Abaixo está a quantidade de valores faltantes por coluna
+
 
 #
 
