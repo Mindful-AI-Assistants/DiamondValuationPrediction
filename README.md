@@ -181,6 +181,8 @@ diamonds_imputer = pd.DataFrame(diamonds_imputer, columns = diamonds.columns)
 diamonds_imputer = encoder.inverse_transform(diamonds_imputer)
 ```
 
+### Angular Coefficient
+
 <p align="center">
   <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/22ab9ccb-3e3d-4884-9700-3cdd2811461a"
 
@@ -206,6 +208,9 @@ diamonds["depth"] = round(diamonds["depth"], 1)
 
 diamonds
 ```
+
+### Coefficient of Determination
+
 
 <p align="center">
   <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/9e748a04-bd7f-4639-b374-a8a62170f48f"/>
@@ -260,6 +265,10 @@ plt.grid(axis="y", alpha=0.5)
 
 plt.show()
 ```
+### Relationship of a diamond’s length with the carat and price
+
+
+IMG 3
 
 
 
