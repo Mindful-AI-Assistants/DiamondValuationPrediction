@@ -334,6 +334,21 @@ plt.show()
 <p align="center">
   <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/8f17f4b1-2fbf-4eb2-80e4-8755c5422c51"/>
 
+### The graph below compares the relationship of the carat of a diamond with the price
+
+```python
+plt.figure(figsize=(17, 5))
+sns.scatterplot(diamonds, x = "carat", y = "price")
+plt.xlabel("Carat")
+plt.ylabel("Price")
+plt.title("Price and Carat Relationship")
+plt.gca().spines["right"].set_visible(False)
+plt.gca().spines["top"].set_visible(False)
+plt.gca().spines["left"].set_visible(False)
+plt.grid(axis = "y", alpha = 0.5)
+
+plt.show()
+```
 
   
 
