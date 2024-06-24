@@ -236,6 +236,13 @@ diamonds["depth"] = round(diamonds["depth"], 1)
 diamonds
 ```
 
+### Coefficient of Determination
+
+
+<p align="center">
+  <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/9e748a04-bd7f-4639-b374-a8a62170f48f"/>
+
+
 
 
 
