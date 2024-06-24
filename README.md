@@ -265,11 +265,13 @@ plt.grid(axis="y", alpha=0.5)
 
 plt.show()
 ```
-<p align="center">
-  <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/3ec26597-e22b-4910-b422-f11b4720effe'/>
-
-
 ### Relationship of a diamond’s length with the carat and price
+
+<p align="center">
+  <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/3ec26597-e22b-4910-b422-f11b4720effe"/>
+
+
+
 
 
 
