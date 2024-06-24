@@ -148,7 +148,7 @@ Below we are performing the process of separating the diamonds database so that 
 
 - Clarity has 8 classification types: SI2, SI1, VS1, VS2, VVS2, VVS1, I1, and IF
 
-### Implementation of K-NN
+### Implementation of K-NN Algorithm
 
 Setting length, width, and/or depth measurements of a diamond equal to 0 as NaN
 
@@ -364,27 +364,24 @@ plt.show()
   <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/ba6b45cd-e624-4dfa-85a9-8b8a1cde832b"/=
 ##  🔍 Descobertas 
 
-####Análise de Recursos Numéricos:
+#### Analysis of Numerical Resources:
 
-Quilate: O preditor mais forte do preço do diamante, com um coeficiente de determinação de 85%.
-Comprimento, Largura, Profundidade: Embora correlacionados com o preço, esses recursos têm um relacionamento mais fraco em comparação com o quilate. Esses recursos são mais úteis para prever o peso do diamante (quilate) do que o preço.
+Here is the English translation of your text:
 
-#### Análise de Recursos Categóricos:
+Carat: The strongest predictor of diamond price, with a determination coefficient of 85%.
+Length, Width, Depth: Although correlated with the price, these features have a weaker relationship compared to the carat. These features are more useful for predicting the weight of the diamond (carat) than the price.
 
+#### Analysis of Categorical Features:
 
-Corte, Cor, Clareza: Esses recursos não são diretamente correlacionados com o preço. No entanto, analisar sua distribuição em diferentes intervalos de preços revela insights sobre como esses fatores influenciam a faixa de preços. Por exemplo, uma porcentagem maior de diamantes com corte "Ideal" pode ser encontrada em faixas de preços mais altas.
-
-#
+Cut, Color, Clarity: These features are not directly correlated with the price. However, analyzing their distribution in different price ranges reveals insights about how these factors influence the price range. For example, a higher percentage of diamonds with an "Ideal" cut can be found in higher price ranges.
 
 ## 💡 Insights 
 
+The most reliable predictor of a diamond's price is its weight in carats.
+Although length, width, and depth are correlated with the price, their relationship is weaker than the carat, suggesting that these dimensions are more useful for determining weight.
+Categorical features such as cut, color, and clarity are not directly correlated with the price, but can provide a general indication of the price range.
+A combination of numerical and categorical features can be used to build a more accurate price prediction model.
 
-O preditor mais confiável do preço de um diamante é seu peso em quilates.
-Embora comprimento, largura e profundidade sejam correlacionados com o preço, seu relacionamento é mais fraco do que o quilate, sugerindo que essas dimensões são mais úteis para determinar o peso.
-Recursos categóricos como corte, cor e clareza não são diretamente correlacionados com o preço, mas podem fornecer uma indicação geral da faixa de preços.
-Uma combinação de recursos numéricos e categóricos pode ser usada para construir um modelo de previsão de preços mais preciso.
-
-#
 
 ## 📈 Recomendações 
 
@@ -409,7 +406,7 @@ Estrutura de Arquivos 📁
     └── 🇧🇷 avaliacaoDiamante.inpyb
     └── 🇧🇷 avaliacaoDiamante
 
-#
+
 
 
 ## 👌 **Clone the Repository:**
