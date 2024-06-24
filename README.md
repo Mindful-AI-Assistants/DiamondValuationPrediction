@@ -53,7 +53,7 @@ https://diamondsvalues.streamlit.app/
 
   <br>
 
-  
+<!--  
 <p align="center"> 👑🇺🇸 QR Code of the Site on Streamlist (English)  (Portuguese) </p>
 
 <p align="center">
@@ -61,6 +61,7 @@ https://diamondsvalues.streamlit.app/
   </p>
 
   <br>
+  -->
 
 <p align="center">:octocat: QR Code of the GitHub Repository </p>
 
