@@ -103,8 +103,43 @@ sns.heatmap((diamonds[["carat", "depth", "table", "price", "x", "y", "z"]]).corr
 plt.title("Coeficiente de Correlação Linear")
 plt.show()
 ```
+#
 
 ### Engenharia de Recursos
+
+Análise do mapa de calor acima com base no preço:
+Podemos concluir que o preço não tem uma boa correlação com a porcentagem total do diamante (profundidade) e também não tem uma correlação alta com a mesa, sendo uma correlação inversamente proporcional de -0,0086 com a profundidade, e uma relação proporcional de 0,13 com a mesa.
+ Podemos concluir também que o preço tem uma boa correlação linear com o quilate (quilate) de 0,92, x (comprimento) de 0,89, y (largura) de 0,89 e z (profundidade) de 0,88.
+
+ Com base nessa análise do mapa de calor, podemos concluir que quanto maior o quilate (quilate), x (comprimento), y (largura) e z (profundidade), maior poderá ser o preço do diamante.
+
+Entretanto, podem existir alguns casos, de se ter um diamante com um quilate muito alto porém com um preço baixo, assim como poderá existir diamantes com um quilate baixo mas com um preço alto. Tal, poderá também acontecer com o x (comprimento), y (largura) e z (profundidade), por causa disso nos questionamos o seguinte, quanto que o quilate (quilate), x (comprimento), y (largura) e z (profundidade) conseguem determinar o valor do diamante? Para responder isso, precisamos tirar o Coeficiente de Determinação.
+
+```python
+plt.figure(figsize = (8, 6))
+sns.heatmap((diamonds[["carat", "depth", "table", "price", "x", "y", "z"]]).corr()**2, vmin = -1, vmax = 1, annot = True, cmap = 'magma')
+plt.title("Coeficiente de Determinação")
+plt.show()
+```
+
+### Análise do mapa de calor acima com base no preço:
+
+Ao analisarmos o mapa de calor acima, podemos perceber que podemos definir o preço do diamante com maior confiabilidade usando a variável numérica quilate (quilate), com confiabilidade de 85%. Isso significa que, embora possamos dizer que quanto maior o quilate do diamante, maior o seu preço, infelizmente essa regra só é de fato válida para 85% dos dados.
+
+Já para x (comprimento), y (largura) e z (profundidade), essa confiabilidade é de apenas 79% para comprimento e largura, e 78% para profundidade, o que não é uma determinação forte, e por isso poderão ser desconsideradas caso as variáveis categóricas, consigam definir com precisão o preço do diamante.
+
+ Abaixo estamos realizando o processo de separação da base de dados diamonds. Para que assim, o processo de machine learn seja mais efetivo.
+
+  Cut tem 5 tipos de classificação Ideal, Premium, Good, Very Good e Fair
+
+- Color tem 7 tipos de classificação E, I, J, H, F, G e D
+
+- Clarity tem 8 tipos de classificação SI2, SI1, VS1, VS2, VVS2, VVS1, I1 and IF
+
+- Implementação do K-NN
+
+Colocando medições iguais a 0 de comprimento, largura e/ou profundidade de um diamante como NaN
+
 
 
 
