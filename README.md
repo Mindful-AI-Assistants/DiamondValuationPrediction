@@ -26,10 +26,9 @@ This repository contains a Python project for  analyzing a dataset of diamond ch
 - [Getting Started Cloning](#getting-started)
 - [Contributing](#contributing)
 - [Git Commands](#GitCommands)
-- [License](#license)
 - [Our Team](#our-team)
 - [Code of Conduct](#code-of-conduct)
-
+- [License](#license)
 
 
 
