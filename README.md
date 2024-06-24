@@ -507,7 +507,7 @@ Se você testemunhar qualquer violação deste código de conduta, entre em cont
 
 
 
-## 👑 Access the Streamlist Site
+## 👑 Access the Streamlit Site
 
 <br>
 
