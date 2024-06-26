@@ -499,9 +499,13 @@ Se você testemunhar qualquer violação deste código de conduta, entre em cont
 
 - [DiamondValuationPredictio.py](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/blob/50d1ec6c1074be9848ad472ff1955aad541d1ae2/Codes/Codes%20English/Codes%20Portugues/Codes%20%20English/diamondvaluationenglish.py)
 
-- [DiamondValuationPrediction.ipynb](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/blob/1770a467185ea56dffdede68b81f730bcff8ead4/Codes/Codes%20English/Codes%20Portugues/Codes%20%20English/diamondValuationEnglish.ipynb)
+- [DiamondValuationPrediction.ipynb](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/blob/1770a467185ea56dffdede68b81f730bcff8ead4/Codes/Codes%20English/Codes%20Portugues/Codes%20%20English/diamondValuationEnglish.ipynb
+
+<br>
 
 ### Dataset:
+
+- [Dataset Diamond Valuation - from kaggle](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/blob/57c0e19bc9bd3efbdd8256442129261df9ac358f/Database/Diamonds_limpa%20(1).csv)
 
 <br>
 
