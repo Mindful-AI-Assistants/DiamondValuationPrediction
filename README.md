@@ -95,7 +95,7 @@ diamonds = pd.read_csv(fr"{path}")
 diamonds
 ```
 
-###  Visualization of the linear Correlation Coefficient and SSeparation of the Dataset, for better KNN Implementation. 
+ Visualization of the **Linear Correlation Coefficient** and **Separation of the Dataset**, for better KNN Implementation. 
 
 Below is the number of missing values per column
 
