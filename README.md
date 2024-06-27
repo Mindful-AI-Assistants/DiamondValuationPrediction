@@ -116,7 +116,7 @@ plt.title("Coeficiente de Correlação Linear")
 plt.show()
 ```
 
-### Resource Engineering
+## Resource Engineering
 
 ### Analysis of the Heat Map Above Based on Price:
 
