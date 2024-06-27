@@ -344,7 +344,7 @@ plt.show()
 <p align="center">
   <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/8f17f4b1-2fbf-4eb2-80e4-8755c5422c51"/>
 
-#### The graph below compares the relationship of the carat of a diamond with the price
+### The graph below compares the relationship of the carat of a diamond with the price
 
 ```python
 plt.figure(figsize=(17, 5))
