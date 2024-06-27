@@ -143,13 +143,13 @@ For x (length), y (width), and z (depth), this reliability is only 79% for lengt
 
 Below we are performing the process of separating the diamonds database so that the machine learning process is more effective.
 
-- Cut has 5 classification types: Ideal, Premium, Good, Very Good, and Fair
+ **- Cut has 5 classification types: Ideal, Premium, Good, Very Good, and Fair**
 
-- Color has 7 classification types: E, I, J, H, F, G, and D
+ **- Color has 7 classification types: E, I, J, H, F, G, and D**
 
-- Clarity has 8 classification types: SI2, SI1, VS1, VS2, VVS2, VVS1, I1, and IF
+ **- Clarity has 8 classification types: SI2, SI1, VS1, VS2, VVS2, VVS1, I1, and IF**
 
-### Implementation of K-NN Algorithm
+###  Implementation of K-NN Algorithm
 
 Setting length, width, and/or depth measurements of a diamond equal to 0 as NaN
 
