@@ -118,7 +118,11 @@ plt.show()
 
 ## Resource Engineering
 
+
 ### Analysis of the Heat Map Above Based on Price:
+
+### * Analysis of the Heat Map Above Based on Price:
+
 
 We can conclude that the price does not have a good correlation with the total percentage of the diamond (depth) and also does not have a high correlation with the table, with an inversely proportional correlation of -0.0086 with depth, and a proportional relationship of 0.13 with the table.
 We can also conclude that the price has a good linear correlation with the carat of 0.92, x (length) of 0.89, y (width) of 0.89, and z (depth) of 0.88.
@@ -135,7 +139,7 @@ plt.title("Coefficient of Determination")
 plt.show()
 ```
 
-### Analysis of the heat map above based on price:
+### * Analysis of the heat map above based on price:
 
 When analyzing the heat map above, we can see that we can define the price of the diamond more reliably using the numerical variable carat, with 85% reliability. This means that although we can say that the higher the carat of the diamond, the higher its price, unfortunately, this rule is only valid for 85% of the data.
 
