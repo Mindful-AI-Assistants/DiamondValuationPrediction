@@ -369,9 +369,7 @@ plt.show()
   <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/ba6b45cd-e624-4dfa-85a9-8b8a1cde832b"/=
 ##  🔍 Descobertas 
 
-#### Analysis of Numerical Resources:
-
-Here is the English translation of your text:
+### Analysis of Numerical Resources:
 
 Carat: The strongest predictor of diamond price, with a determination coefficient of 85%.
 Length, Width, Depth: Although correlated with the price, these features have a weaker relationship compared to the carat. These features are more useful for predicting the weight of the diamond (carat) than the price.
@@ -383,12 +381,12 @@ Cut, Color, Clarity: These features are not directly correlated with the price. 
 ## 💡 Insights 
 
 The most reliable predictor of a diamond's price is its weight in carats.
+
 Although length, width, and depth are correlated with the price, their relationship is weaker than the carat, suggesting that these dimensions are more useful for determining weight.
+
 Categorical features such as cut, color, and clarity are not directly correlated with the price, but can provide a general indication of the price range.
 A combination of numerical and categorical features can be used to build a more accurate price prediction model.
 
-
-Here is the English translation of your text:
 
 ## 📈 Recommendations 
 
@@ -397,8 +395,6 @@ Explore more complex machine learning models (for example, random forests, suppo
 Analyze the distribution of categorical features in different price ranges to better understand their influence.
 
 Consider incorporating other relevant features, such as diamond certification, origin, and specific gravity, to increase the predictive power of the model.
-
-Here is the English translation of your text:
 
 ## 🎉 Conclusion 
 
@@ -411,6 +407,7 @@ File Structure 📁
     └── 🇺🇸 diamondValuationEnglish.py
     └── 🇧🇷 avaliacaoDiamante.inpyb
     └── 🇧🇷 avaliacaoDiamante
+
 
 ## 👌 ** Clone this Repository:**
 
