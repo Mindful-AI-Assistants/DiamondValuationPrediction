@@ -530,6 +530,7 @@ Se você testemunhar qualquer violação deste código de conduta, entre em cont
   <img src="Site.png" alt="QR Code 1" width="200"/>
   </p>
 
+https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/blob/96040cd81f653f104e149b6c3f7f3192de45bde6/QR%20CODES/Site.png
 
   <br>
 
