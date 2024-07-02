@@ -542,7 +542,7 @@ If you witness any violation of this code of conduct, please contact [your conta
 <p align="center">
 <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/e52ee3b6-6260-4733-8a65-5c7e2bc8c5d7 alt="QR Code 1" width="200"/>
 
-  <br>
+  <br> 
 
 <!--  
 <p align="center"> 👑🇺🇸 QR Code of the Site on Streamlit (English)  (Portuguese) </p>
