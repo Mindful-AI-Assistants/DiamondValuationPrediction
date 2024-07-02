@@ -532,12 +532,8 @@ Be respectful: Treat others with courtesy and respect, regardless of their backg
 ### <p align="center"> 👑 QR Code of the Site on Streamlit </p>
 
 <p align="center">
-  <img src="Site.png" alt="QR Code 1" width="200"/>
+  <img src="QR Codes/Site.png" alt="QR Code 1" width="200"/>
   </p>
-
-https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/blob/96040cd81f653f104e149b6c3f7f3192de45bde6/QR%20CODES/Site.png
-
-![Screenshot 2024-07-02 at 05 02 38](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/2fe64d79-afd7-459e-ae5c-4025fa9b293c)
 
 
   <br>
