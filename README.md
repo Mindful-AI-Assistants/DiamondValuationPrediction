@@ -403,9 +403,13 @@ This data analysis project has successfully identified the key features that imp
 Note: This report is based on the provided code snippet. More details about the prediction model and its performance are not available and would require additional information.
 
 File Structure 📁
+
 └── 🇺🇸 diamondValuationEnglish.ipynb
+
     └── 🇺🇸 diamondValuationEnglish.py
+    
     └── 🇧🇷 avaliacaoDiamante.inpyb
+    
     └── 🇧🇷 avaliacaoDiamante
 
 
@@ -534,6 +538,7 @@ Be respectful: Treat others with courtesy and respect, regardless of their backg
 <p align="center">
   <img src="QR Codes/Site.png" alt="QR Code 1" width="200"/>
   </p>
+
 
 
   <br>
