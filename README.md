@@ -558,6 +558,7 @@ If you witness any violation of this code of conduct, please contact [your conta
   <img src="RepositorioGitHub.png" alt="QR Code 2" width="200"/>
 </p>
 
+  <br>
 
 #
 
