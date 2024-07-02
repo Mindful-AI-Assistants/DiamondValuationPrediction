@@ -4,7 +4,7 @@
 <br><br>
 
 
-# <p align="center">  💎 Predição de Valoração de Diamantes
+# <p align="center">  💎 Predição de Valor de Diamantes
 
 <br>
 
