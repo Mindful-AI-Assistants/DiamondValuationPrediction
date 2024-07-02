@@ -530,6 +530,7 @@ Se você testemunhar qualquer violação deste código de conduta, entre em cont
   <img src="Site.png" alt="QR Code 1" width="200"/>
   </p>
 
+
   <br>
 
 <!--  
