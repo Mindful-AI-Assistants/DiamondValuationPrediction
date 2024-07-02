@@ -532,6 +532,9 @@ Se você testemunhar qualquer violação deste código de conduta, entre em cont
 
 https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/blob/96040cd81f653f104e149b6c3f7f3192de45bde6/QR%20CODES/Site.png
 
+![Screenshot 2024-07-02 at 05 02 38](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/2fe64d79-afd7-459e-ae5c-4025fa9b293c)
+
+
   <br>
 
 <!--  
