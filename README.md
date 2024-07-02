@@ -485,13 +485,18 @@ git branch -d feature/my-feature
 ## 🫶 Código de Conduta
 
 
-Estamos comprometidos em promover uma comunidade acolhedora e inclusiva para todos os colaboradores. Esperamos que todos respeitem os seguintes princípios:
-Seja respeitoso: Trate os outros com cortesia e respeito, independentemente de sua origem, identidade ou opiniões.
-Seja construtivo: Concentre-se em fornecer feedback útil e críticas construtivas.
-Seja de mente aberta: Esteja aberto a diferentes perspectivas e ideias.
-Seja responsável: Assuma responsabilidade por suas ações e palavras.
-Seja inclusivo: Promova um ambiente acolhedor e inclusivo para todos.
-Se você testemunhar qualquer violação deste código de conduta, entre em contato com [your contact information] para que possamos lidar com a situação de forma adeq
+We are committed to fostering a welcoming and inclusive community for all team members. We expect everyone to adhere to the following principles:
+
+Be respectful: Treat others with courtesy and respect, regardless of their background, identity, or opinions.
+
+
+🤝
+
+
+
+
+
+
 
 ## 👩🏽‍💻  Codes and Data Analysis Report
 
