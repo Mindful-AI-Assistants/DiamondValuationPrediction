@@ -1,3 +1,2 @@
-FabianaCampanri --bind=0.0.0.0 --timeout 600 hello:myapp
+gunicorn --bind=0.0.0.0 --timeout 600 hello:myapp
 
-ppvyctor --bind=0.0.0.0 --timeout 600 hello:myapp
