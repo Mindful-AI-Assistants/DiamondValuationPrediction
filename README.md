@@ -535,6 +535,25 @@ git branch -d feature/my-feature
 
 - [Pedro Vyctor Carvalho De Almeida](https://github.com/ppvyctor)
 
+
+
+## 🤝 Codes odf Conduct
+
+We are committed to fostering a welcoming and inclusive community for all team members. We expect everyone to adhere to the following principles:
+
+- Be respectful: Treat others with courtesy and respect, regardless of their background, identity, or opinions.
+
+- Be constructive: Focus on providing helpful feedback and constructive criticism.
+
+- Be open-minded: Be open to different perspectives and ideas.
+
+- Be open-minded: Be open to different perspectives and ideas.
+
+- Be accountable: Take responsibility for your actions and words.
+
+- Be inclusive: Promote a welcoming and inclusive environment for everyone.
+
+If you witness any violation of this code of conduct, please contact [your contact information] so we can address the situation appropriately.
   
 
 #
