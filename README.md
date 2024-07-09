@@ -554,6 +554,12 @@ We are committed to fostering a welcoming and inclusive community for all team m
 - Be inclusive: Promote a welcoming and inclusive environment for everyone.
 
 If you witness any violation of this code of conduct, please contact [your contact information] so we can address the situation appropriately.
+
+
+
+## 💌 Contact
+
+For more information, contact [Mindful-AI-Assistants](mailto:fabicampanari@proton.me)
   
 
 #
