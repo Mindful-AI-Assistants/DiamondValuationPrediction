@@ -10,7 +10,6 @@ https://github.com/user-attachments/assets/d41493a3-9757-4819-b27f-1421b682142d
 
  <p align="center">
   <a href="https://github.com/user-attachments/assets/4ecd480c-f294-4f75-a241-fbf9576d4a67">
-    <img src="https://github.com/user-attachments/assets/4ecd480c-f294-4f75-a241-fbf9576d4a67">
   </a>
 </p>
 
