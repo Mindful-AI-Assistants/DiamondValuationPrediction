@@ -1,7 +1,12 @@
  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
   <!--  START HEADER  -->  
 
-![Storytelling](https://github.com/MindfulAI-Copilots-Bots/Storytelling/assets/113218619/0f827a6e-5e03-42d7-b8bb-c11ba2f029e0)
+
+
+
+
+
+
 <br>
 
 
