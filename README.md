@@ -6,10 +6,6 @@
 # <p align="center">  💎 Diamond Valuation Prediction
 #### <p align="center">🎭  A Project develped for STORYTELLING **for Data Science and Artificial Intelligence - PUC-SP University** </p>
 
-
-<br>
-
-
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
 
