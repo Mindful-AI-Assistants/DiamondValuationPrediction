@@ -506,6 +506,14 @@ git branch -d feature/my-feature
 
   <br> 
 
+### <p align="center">:octocat: QR Code of the GitHub Repository </p>
+
+  <p align="center">
+  <img src="RepositorioGitHub.png" alt="QR Code 2" width="200"/>
+</p>
+
+  <br> 
+
 <!--  
 <p align="center"> 👑🇺🇸 QR Code of the Site on Streamlit (English)  (Portuguese) </p>
 
@@ -514,11 +522,7 @@ git branch -d feature/my-feature
   </p>
 -->
 
-### <p align="center">:octocat: QR Code of the GitHub Repository </p>
 
-  <p align="center">
-  <img src="RepositorioGitHub.png" alt="QR Code 2" width="200"/>
-</p>
 
 
 ## 👥 Our Team 
