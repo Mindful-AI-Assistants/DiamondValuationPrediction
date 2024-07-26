@@ -7,12 +7,14 @@ https://github.com/user-attachments/assets/52fd37aa-4647-4d26-9f37-0808bb4d29d9
 
 https://github.com/user-attachments/assets/d41493a3-9757-4819-b27f-1421b682142d
 
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/76646726-8cb7-48eb-bcd9-5141511cba8e
-/video.mp4">
-    <img src="https://user-images.githubusercontent.com/.../video.mp4" alt="Vídeo">
+
+ <p align="center">
+  <a href="https://github.com/user-attachments/assets/4ecd480c-f294-4f75-a241-fbf9576d4a67">
+    <img src="https://github.com/user-attachments/assets/4ecd480c-f294-4f75-a241-fbf9576d4a67">
   </a>
 </p>
+
+
 
 
 
