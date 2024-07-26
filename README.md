@@ -4,7 +4,14 @@
 <br>
 
 # <p align="center">  💎 Diamond Valuation Prediction
-#### <p align="center">🎭  This repository includes a Python project developed for storytelling, data science, and artificial intelligence at PUC-SP University. The project involves analyzing a dataset of diamond characteristics and using machine learning techniques to predict their price.
+
+
+
+
+
+
+
+### <p align="center">🎭  This repository includes a Python project developed for storytelling, data science, and artificial intelligence at PUC-SP University. The project involves analyzing a dataset of diamond characteristics and using machine learning techniques to predict their price.
 </p>
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
