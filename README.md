@@ -162,8 +162,7 @@ for x in range(diamonds.shape[0]):
 diamonds
 ```
 
-👇 Below is the implementation of K-NN Algorithm in the numerical columns
-
+[👇 Below is the implementation of K-NN Algorithm in the numerical columns]()
 ps: Some books advise using the formula (K = log n) where n is the number of rows in the database.
 To thus define the amount of K.
 
