@@ -175,7 +175,7 @@ diamonds[["carat", "depth", "table", "price", "x", "y", "z"]] = classification.f
 diamonds
 ```
 
-### Applying K-NN Algorithm for Categorical Columns Algorithm
+### [Applying K-NN Algorithm for Categorical Columns Algorithm]()
 
 ```python
 Copy code
@@ -189,7 +189,7 @@ diamonds_imputer = pd.DataFrame(diamonds_imputer, columns = diamonds.columns)
 diamonds_imputer = encoder.inverse_transform(diamonds_imputer)
 ```
 
-### Angular Coefficient Graphic
+### [Angular Coefficient Graphic]()
 
 <p align="center">
   <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/22ab9ccb-3e3d-4884-9700-3cdd2811461a"
