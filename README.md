@@ -194,7 +194,7 @@ diamonds_imputer = encoder.inverse_transform(diamonds_imputer)
 <p align="center">
   <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/22ab9ccb-3e3d-4884-9700-3cdd2811461a"
 
-### Replacing missing values in the main diamonds database
+### [Replacing missing values in the main diamonds database]()
 
 ```python
 Copy code
@@ -247,7 +247,7 @@ except FileNotFoundError:
 
 2- **Points are equivalent to 0.01 carats**
 
-### The graph below compares the relationship of the length of a diamond with the carat and with the price
+### [The graph below compares the relationship of the length of a diamond with the carat and with the price]()
 
 ```python
 plt.figure(figsize=(17, 10))
