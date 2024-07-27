@@ -96,9 +96,9 @@ diamonds
 
 ### Visualization of the **Linear Correlation Coefficient** and **Separation of the Dataset**, for better KNN Implementation. 
 
-Below is the number of missing values per column
-
  <br>
+
+👇 Below is the number of missing values per column
 
 ```python
 counter = {}
