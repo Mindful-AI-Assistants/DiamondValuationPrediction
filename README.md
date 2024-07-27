@@ -223,9 +223,9 @@ diamonds
   <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/9e748a04-bd7f-4639-b374-a8a62170f48f"/>
 
 
-### Price Prediction Model
+## Price Prediction Model
 
-#### Saving the already cleaned database without missing values
+### [Saving the already cleaned database without missing values]()
 
 ```Python
 path = r"DataBases\Diamonds_clean.csv"
