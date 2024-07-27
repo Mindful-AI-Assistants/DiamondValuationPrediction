@@ -239,9 +239,9 @@ except FileNotFoundError:
           successfully!!''')
 ```
 
-### Analysis of the Price Relationship of the Numerical Columns
+### [Analysis of the Price Relationship of the Numerical Columns]()
 
-### **IMPORTANT INFORMATION:**
+#### **⭕️ IMPORTANT INFORMATION:**
 
 1- **Carat is equivalent to 200mg**
 
