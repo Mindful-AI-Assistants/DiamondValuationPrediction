@@ -278,7 +278,7 @@ plt.show()
   <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/3ec26597-e22b-4910-b422-f11b4720effe"/>
 
 
-### The graph below compares the relationship of the width of a diamond with the carat and with the price
+### [The graph below compares the relationship of the width of a diamond with the carat and with the price]()
 
 ```python
 plt.figure(figsize=(17, 10))
@@ -310,7 +310,7 @@ plt.show()
 ![4  Relationship of a diamond’s width with the carat and price](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/a2b83a69-1570-4c76-85ba-3b98726160d4)
 
 
-### The graph below compares the relationship of the depth of a diamond with the carat and with the price
+### [The graph below compares the relationship of the depth of a diamond with the carat and with the price]()
 
 ```python
 plt.figure(figsize=(17, 10))
@@ -341,7 +341,7 @@ plt.show()
 <p align="center">
   <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/8f17f4b1-2fbf-4eb2-80e4-8755c5422c51"/>
 
-### The graph below compares the relationship of the carat of a diamond with the price
+### [The graph below compares the relationship of the carat of a diamond with the price]()
 
 ```python
 plt.figure(figsize=(17, 5))
