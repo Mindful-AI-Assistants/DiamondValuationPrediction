@@ -8,10 +8,9 @@
 
 https://github.com/user-attachments/assets/f230f263-213c-4e97-8b7f-9b76dd6f5501
 
+<br>
 
-
-
-## About This Project
+## [About This Project]()
 
 
 This repository includes a Python project developed for storytelling, data science, and artificial intelligence at PUC-SP University. The project involves analyzing a dataset of diamond characteristics and using machine learning techniques to predict their price.
