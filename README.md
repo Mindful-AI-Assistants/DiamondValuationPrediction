@@ -56,7 +56,7 @@ However, in extreme cases where a quick estimate of a diamond’s value is neede
 
 ## Dataset 📊
 
-The dataset used in this project is "Diamonds_values_faltantes.csv" and includes the following columns:
+### - The dataset used in this project is "Diamonds_values_faltantes.csv" and includes the following columns:
 
 | Column Name | Description |
 |---|---|
