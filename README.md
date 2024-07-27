@@ -206,7 +206,7 @@ for x in range(diamonds.shape[0]):
 diamonds
 ```
 
-Below we are normalizing the numerical columns.
+### 👇[Below we are normalizing the numerical columns]()
 
 ```python
 standardization of numerical columns
