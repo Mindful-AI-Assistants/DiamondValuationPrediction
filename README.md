@@ -56,7 +56,7 @@ However, in extreme cases where a quick estimate of a diamond’s value is neede
 
 ## Dataset 📊
 
-### The dataset used in this project is "Diamonds_values_faltantes.csv" and includes the following columns:
+### [The dataset used in this project is "Diamonds_values_faltantes.csv" and includes the following columns:]()
 
 | Column Name | Description |
 |---|---|
@@ -75,7 +75,7 @@ However, in extreme cases where a quick estimate of a diamond’s value is neede
 
 ## Metodology 🛠️
 
-### Loading and Data Exploration
+### [Loading and Data Exploration]()
 
 ```python
 import pandas as pd
@@ -94,7 +94,7 @@ diamonds = pd.read_csv(fr"{path}")
 diamonds
 ```
 
-### Visualization of the **Linear Correlation Coefficient** and **Separation of the Dataset**, for better KNN Implementation. 
+### [Visualization of the **Linear Correlation Coefficient** and **Separation of the Dataset**, for better KNN Implementation]()
 
 👇 Below is the number of missing values per column
 
@@ -146,7 +146,6 @@ Below we are performing the process of separating the diamonds database so that 
 
  *- Clarity has 8 classification types: SI2, SI1, VS1, VS2, VVS2, VVS1, I1, and IF*
 
- <br>
 
 ###  [Implementation of K-NN Algorithm]()
 
@@ -164,7 +163,8 @@ diamonds
 ```
 
 👇 Below is the implementation of K-NN Algorithm in the numerical columns
-Some books advise using the formula (K = log n) where n is the number of rows in the database.
+
+ps: Some books advise using the formula (K = log n) where n is the number of rows in the database.
 To thus define the amount of K.
 
 ```python
