@@ -115,7 +115,7 @@ plt.show()
 
 ## Resource Engineering
 
-### Analysis of the Heat Map Above Based on Price:
+### [Analysis of the Heat Map Above Based on Price:]()
 
 We can conclude that the price does not have a good correlation with the total percentage of the diamond (depth) and also does not have a high correlation with the table, with an inversely proportional correlation of -0.0086 with depth, and a proportional relationship of 0.13 with the table.
 We can also conclude that the price has a good linear correlation with the carat of 0.92, x (length) of 0.89, y (width) of 0.89, and z (depth) of 0.88.
@@ -132,7 +132,7 @@ plt.title("Coefficient of Determination")
 plt.show()
 ```
 
-### Analysis of the heat map above based on price:
+### [Analysis of the heat map above based on price:]()
 
 When analyzing the heat map above, we can see that we can define the price of the diamond more reliably using the numerical variable carat, with 85% reliability. This means that although we can say that the higher the carat of the diamond, the higher its price, unfortunately, this rule is only valid for 85% of the data.
 
@@ -146,7 +146,9 @@ Below we are performing the process of separating the diamonds database so that 
 
  *- Clarity has 8 classification types: SI2, SI1, VS1, VS2, VVS2, VVS1, I1, and IF*
 
-###  Implementation of K-NN Algorithm
+ <br>
+
+###  [Implementation of K-NN Algorithm]()
 
 Setting length, width, and/or depth measurements of a diamond equal to 0 as NaN
 
@@ -161,7 +163,7 @@ for x in range(diamonds.shape[0]):
 diamonds
 ```
 
-Below is the implementation of K-NN Algorithm in the numerical columns
+👇 Below is the implementation of K-NN Algorithm in the numerical columns
 Some books advise using the formula (K = log n) where n is the number of rows in the database.
 To thus define the amount of K.
 
