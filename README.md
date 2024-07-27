@@ -364,12 +364,12 @@ plt.show()
 
 ##  🔍 Descobertas 
 
-### Analysis of Numerical Resources:
+### [Analysis of Numerical Resources]()
 
 Carat: The strongest predictor of diamond price, with a determination coefficient of 85%.
 Length, Width, Depth: Although correlated with the price, these features have a weaker relationship compared to the carat. These features are more useful for predicting the weight of the diamond (carat) than the price.
 
-#### Analysis of Categorical Features:
+### [Analysis of Categorical Features]()
 
 Cut, Color, Clarity: These features are not directly correlated with the price. However, analyzing their distribution in different price ranges reveals insights about how these factors influence the price range. For example, a higher percentage of diamonds with an "Ideal" cut can be found in higher price ranges.
 
