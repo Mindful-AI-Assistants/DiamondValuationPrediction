@@ -3,11 +3,6 @@
 
 <br><br>
 
-https://github.com/user-attachments/assets/39140ac6-b938-4f0a-aad2-d933e199ae92
-
-<br><br>
-
-
 # <p align="center">  💎 Predição de Valor de Diamantes
 
 <br>
