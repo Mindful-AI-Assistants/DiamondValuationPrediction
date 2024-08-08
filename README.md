@@ -505,9 +505,8 @@ git branch -d feature/my-feature
 
   <br> 
 
-  <p align="center">
-  <img src="https://github.com/user-attachments/assets/aa52cd93-ac2d-4728-8c53-a1ed18470905 alt="QR Code 2" width="200"/>
-</p>
+<p align="center"> 
+<img src="https://github.com/user-attachments/assets/aa52cd93-ac2d-4728-8c53-a1ed18470905" alt="QR Code 2" width="200"/> </p>
 
 ### <p align="center">:octocat: QR Code of the GitHub Repository </p>
 
