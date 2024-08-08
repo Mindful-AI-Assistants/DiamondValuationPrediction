@@ -123,6 +123,7 @@ except FileNotFoundError:
           {path}
           successfully!!''')
 
+
 """# Analysis of the price relationship of the numerical columns
 
 IMPORTANT INFORMATION:
