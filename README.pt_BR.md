@@ -5,6 +5,9 @@
 
 # <p align="center">  💎 Predição de Valor de Diamantes
 
+https://github.com/user-attachments/assets/39140ac6-b938-4f0a-aad2-d933e199ae92
+
+
 <br>
 
 Este repositório contém um projeto Python para analisar um conjunto de dados de características de diamantes e prever seu preço usando técnicas de aprendizado de máquina.
