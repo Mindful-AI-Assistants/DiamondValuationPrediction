@@ -7,6 +7,7 @@ streamlit==1.36.0
 numpy==1.22.0
 pandas==2.2.2
 
+
 # Bibliotecas para visualização de dados
 matplotlib==3.4.3
 seaborn==0.13.2
