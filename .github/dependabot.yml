@@ -1,5 +1,6 @@
 version: 2  
 updates:  
+
   # Configuração para dependências de Python (requirements.txt)  
   - package-ecosystem: "pip"  # Usa pip para gerenciar dependências  
     directory: "/"              # Diretório do projeto  
@@ -7,15 +8,7 @@ updates:
       interval: "weekly"        # Atualiza semanalmente  
     commit-message:  
       prefix: "fix"             # Prefixo da mensagem de commit  
-
-  
-  # Configuração para dependências de Jupyternotebook
-  - package-ecosystem: "jupyter" # Para Jupyter Notebooks  
-    directory: "/"               # Diretório do projeto  
-    schedule:  
-      interval: "weekly"         # Atualiza semanalmente  
-    commit-message:  
-      prefix: "fix"   
+      
 
   # Configuração para dependências de JavaScript (package.json)  
   - package-ecosystem: "npm"  
