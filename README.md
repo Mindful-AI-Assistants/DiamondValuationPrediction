@@ -19,11 +19,11 @@ This repository includes a Python project developed for storytelling, data scien
 
 <br>
 
-## Table of Contents
+## [Table of Contents]()
 
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Methodology](#methodology)
+- Introductiom
+- Dataset
+- Methodology
 - [Findings](#findings)
 - [Analysis of Numerical Features](#analysis-of-numerical-features)
 - [Analysis of Categorical Features](#analysis-of-categorical-features)
@@ -39,7 +39,7 @@ This repository includes a Python project developed for storytelling, data scien
 - [QR Codes](#QRCodes)
 - [Our Team](#our-team)
 - [Codes of Conduct](#code-of-conduct)
-- [License](#license)
+- License
 
 
   
