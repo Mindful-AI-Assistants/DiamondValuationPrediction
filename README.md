@@ -130,8 +130,41 @@ $$\text{Carat} = \frac{100}{\text{Points} \ (\text{pt})}$$
 
    $$\text{Density} = \frac{\text{Volume}}{\text{Mass}} \rightarrow \text{Mass} = \text{Density} \times \text{Volume}$$
 
+   However, we don't have the diamond's volume. To obtain it, we'll break down the volume calculation of an object as follows:
+
+   $$\text{Volume} = \text{Length} \times \text{Width} \times \text{Depth}$$
+   
+
+   Substituting this into the original formula gives:
+
+   \[
+   \text{Mass} = \text{Density} \times (\text{Length} \times \text{Width} \times \text{Depth})
+   \]
+
+   Now, we need to find the diamond's carat. To do this, we'll use Formula 1 to estimate the diamond's carat:
+
+   \[
+   \text{Carat} = \frac{200}{\text{Mass}(\text{mg})}
+   \]
+
+   The general formula becomes:
+
+   \[
+   \text{Carat} = \frac{200}{\text{Density} \times \text{Volume}}
+   \]
+
+   OR
+
+   \[
+   \text{Carat} = \frac{200}{\text{Length} \times \text{Width} \times \text{Depth} \times \text{Density}}
+
  
    
+
+
+
+
+
 
 
 
