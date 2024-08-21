@@ -52,7 +52,7 @@ However, in extreme cases where a quick estimate of a diamond’s value is neede
   
 
 
-## Dataset 📊
+## [Dataset 📊]()
 
 ### [The dataset used in this project is "Diamonds_values_faltantes.csv" and includes the following columns:]()
 
@@ -71,7 +71,7 @@ However, in extreme cases where a quick estimate of a diamond’s value is neede
 
 
 
-## Metodology 🛠️
+## [Metodology 🛠️]()
 
 ### [Loading and Data Exploration]()
 
@@ -92,7 +92,7 @@ diamonds = pd.read_csv(fr"{path}")
 diamonds
 ```
 
-### [Visualization of the **Linear Correlation Coefficient** and **Separation of the Dataset**, for better KNN Implementation]()
+## [Visualization of the **Linear Correlation Coefficient** and **Separation of the Dataset**, for better KNN Implementation]()
 
 👇 Below is the number of missing values per column
 
@@ -151,7 +151,7 @@ $$\text{Carat} = \frac{100}{\text{Points} \ (\text{pt})}$$
    $$\text{Carat} = \frac{200}{\text{Length} \times \text{Width} \times \text{Depth} \times \text{Density}}$$
 
  
-## Resource Engineering
+## [Resource Engineering]()
 
 ### [Analysis of the Heat Map Above Based on Price:]()
 
@@ -261,7 +261,7 @@ diamonds
   <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/9e748a04-bd7f-4639-b374-a8a62170f48f"/>
 
 
-## Price Prediction Model
+## [Price Prediction Model]()
 
 ### [Saving the already cleaned database without missing values]()
 
@@ -401,7 +401,7 @@ plt.show()
   <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/ba6b45cd-e624-4dfa-85a9-8b8a1cde832b"/=
 
 
-##  🔍 Discoveries
+##  [🔍 Discoveries]()
 
 ### [Analysis of Numerical Resources]()
 
@@ -412,7 +412,7 @@ Length, Width, Depth: Although correlated with the price, these features have a 
 
 Cut, Color, Clarity: These features are not directly correlated with the price. However, analyzing their distribution in different price ranges reveals insights about how these factors influence the price range. For example, a higher percentage of diamonds with an "Ideal" cut can be found in higher price ranges.
 
-## 💡 Insights 
+## [💡 Insights]()
 
 The most reliable predictor of a diamond's price is its weight in carats.
 
@@ -422,7 +422,7 @@ Categorical features such as cut, color, and clarity are not directly correlated
 A combination of numerical and categorical features can be used to build a more accurate price prediction model.
 
 
-## 📈 Recommendations 
+## [📈 Recommendations]() 
 
 Explore more complex machine learning models (for example, random forests, support vector machines) to potentially improve prediction accuracy.
 
@@ -430,7 +430,7 @@ Analyze the distribution of categorical features in different price ranges to be
 
 Consider incorporating other relevant features, such as diamond certification, origin, and specific gravity, to increase the predictive power of the model.
 
-## 🎉 Conclusion 
+## [🎉 Conclusion]()
 
 This data analysis project has successfully identified the key features that impact the price of a diamond and demonstrated the importance of feature engineering in building accurate prediction models. By understanding the relationships between the characteristics of diamonds and the price, this analysis can inform pricing strategies for diamond retailers and provide valuable insights for consumers.
 
@@ -447,7 +447,7 @@ File Structure 📁
     └── 🇧🇷 avaliacaoDiamante
 
 
-## 👌 **Clone this Repository:**
+## 👌 [Clone this Repository]()
 
 ```bash
 git clone https://github.com/[your-username]/diamond-price-prediction.git
@@ -468,7 +468,7 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 
 
 
-## 💻 Git Commands 
+## [💻 Git Commands]()
 
 Create a new branch:
 
@@ -476,7 +476,7 @@ Create a new branch:
 git checkout -b feature/my-feature
 ```
 
-#### Add changes to staging area: git add
+### Add changes to staging area: git add
 
 Commit changes:
 ```
@@ -508,7 +508,7 @@ Delete branch:
 git branch -d feature/my-feature
 ```
 
-## 👩🏽‍💻  Codes and Data Analysis Report
+## [👩🏽‍💻 Codes and Data Analysis Report]()
 
 ### Codes:
 
@@ -530,14 +530,14 @@ git branch -d feature/my-feature
 
 
 
-## 👑 Access the Streamlit Site
+## [👑 Access the Streamlit Site]()
 
 <br>
 
 🚀 [Tap here and teleport to the Streamlit Site](https://diamondsvalues.streamlit.app/) 
 
 
-## QR Codes
+## [pQR Codes]()
 
 ### <p align="center"> 👑 QR Code of the Site on Streamlit </p>
 
@@ -567,7 +567,7 @@ git branch -d feature/my-feature
 
 
 
-## 👥 Our Team 
+## [👥 Our Team]() 
 
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
@@ -583,7 +583,7 @@ git branch -d feature/my-feature
 
 
 
-## 🤝 Codes odf Conduct
+## [🤝 Codes odf Conduct]()
 
 We are committed to fostering a welcoming and inclusive community for all team members. We expect everyone to adhere to the following principles:
 
@@ -603,7 +603,7 @@ If you witness any violation of this code of conduct, please contact [your conta
 
 
 
-## 💌 Contact
+## [💌 Contact]()
 
 For more information, contact [Mindful-AI-Assistants](mailto:fabicampanari@proton.me)
   
