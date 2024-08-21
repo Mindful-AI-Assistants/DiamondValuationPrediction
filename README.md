@@ -111,12 +111,33 @@ plt.title("Coeficiente de Correlação Linear")
 plt.show()
 ```
 
-## Three Methods to Estimate Diamond Prices:
+## [Three Methods to Estimate Diamond Prices:]()
 
 1. **Request the Diamond's Mass from the Client:**
 
  $$\text{Carat} = \frac{200}{\text{Mass} \ (\text{mg})}$$
+
+<br>
+
+2. **When the User Provides the Diamond's Points:**
+
+$$\text{Carat} = \frac{100}{\text{Points} \ (\text{pt})}$$
+ 
+
+3. **Using Four Elements to Estimate the Carat of the Diamond:**
+
+   For the second method of estimating the diamond's carat, four elements are required: Length (mm), Width (mm), Depth (mm), and Density \(\left( \text{mm}^3/\text{mm} \right)\). We use the object's density calculation to first calculate the diamond's mass:
+
+   $$\text{Density} = \frac{\text{Volume}}{\text{Mass}} \rightarrow \text{Mass} = \text{Density} \times \text{Volume}$$
+
+ 
    
+
+
+
+
+
+
 
 
 
