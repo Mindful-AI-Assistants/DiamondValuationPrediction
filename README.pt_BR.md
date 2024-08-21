@@ -109,7 +109,45 @@ plt.title("Coeficiente de Correlação Linear")
 plt.show()
 ```
 
-### Engenharia de Recursos
+## [Três Métodos para Estimar Preços de Diamantes:]()
+
+1. **Solicite a Massa do Diamante ao Cliente:**
+
+   $$\text{Quilate} = \frac{200}{\text{Massa} \ (\text{mg})}$$
+
+<br>
+
+2. **Quando o Usuário Fornece os Pontos do Diamante:**
+
+   $$\text{Quilate} = \frac{100}{\text{Pontos} \ (\text{pt})}$$
+
+3. **Usando Quatro Elementos para Estimar o Quilate do Diamante:**
+
+   Para o segundo método de estimar o quilate do diamante, quatro elementos são necessários: Comprimento (mm), Largura (mm), Profundidade (mm) e Densidade \(\left( \text{mm}^3/\text{mm} \right)\). Usamos o cálculo da densidade do objeto para calcular primeiro a massa do diamante:
+
+   $$\text{Densidade} = \frac{\text{Volume}}{\text{Massa}} \rightarrow \text{Massa} = \text{Densidade} \times \text{Volume}$$
+
+   No entanto, não temos o volume do diamante. Para obtê-lo, vamos detalhar o cálculo do volume de um objeto da seguinte forma:
+
+   $$\text{Volume} = \text{Comprimento} \times \text{Largura} \times \text{Profundidade}$$
+
+   ### [Substituindo isso na fórmula original temos:]()
+
+   $$\text{Massa} = \text{Densidade} \times (\text{Comprimento} \times \text{Largura} \times \text{Profundidade})$$
+
+   Agora, precisamos encontrar o quilate do diamante. Para isso, utilizaremos a Fórmula 1 para estimar o quilate do diamante:
+
+   $$\text{Quilate} = \frac{200}{\text{Massa}(\text{mg})}$$
+
+   A fórmula geral se torna:
+
+   $$\text{Quilate} = \frac{200}{\text{Densidade} \times \text{Volume}}$$
+
+   OU
+
+   $$\text{Quilate} = \frac{200}{\text{Comprimento} \times \text{Largura} \times \text{Profundidade} \times \text{Densidade}}$$
+
+## [Engenharia de Recursos]()
 
 Análise do mapa de calor acima com base no preço:
 Podemos concluir que o preço não tem uma boa correlação com a porcentagem total do diamante (profundidade) e também não tem uma correlação alta com a mesa, sendo uma correlação inversamente proporcional de -0,0086 com a profundidade, e uma relação proporcional de 0,13 com a mesa.
