@@ -1,6 +1,15 @@
  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
   <!--  START HEADER  -->  
 
+```python
+counter = {}
+for x in range(diamonds.shape[1]):
+    column_name = diamonds.columns[x]
+    counter[column_name] = diamonds.shape[0] - len(diamonds[column_name].dropna())
+counter_df = pd.DataFrame(list(counter.items()), columns=['Column', 'Number of NaNs'])
+counter_df
+```
+
 <br>
 
 # <p align="center">  💎 Diamond Valuation Prediction
