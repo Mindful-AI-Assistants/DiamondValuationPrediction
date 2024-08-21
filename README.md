@@ -36,8 +36,8 @@ This repository includes a Python project developed for storytelling, data scien
 - Git Commands
 - Codes, Dataset and Data Analysis Report
 - Access the Streamlit Site
-- [QR Codes](#QRCodes)
-- [Our Team](#our-team)
+- QR Codes
+- Our Team
 - [Codes of Conduct](#code-of-conduct)
 - License
 
