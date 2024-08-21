@@ -24,11 +24,11 @@ This repository includes a Python project developed for storytelling, data scien
 - Introductiom
 - Dataset
 - Methodology
-- [Findings](#findings)
-- [Analysis of Numerical Features](#analysis-of-numerical-features)
-- [Analysis of Categorical Features](#analysis-of-categorical-features)
-- [Insights](#insights)
-- [Recommendations](#recommendations)
+- Findings
+- Analysis of Numerical Features
+- Analysis of Categorical Features
+- Insights
+- Recommendations
 - [Conclusion](#conclusion)
 - [File Structure](#file-structure)
 - [Getting Started Cloning](#getting-started)
