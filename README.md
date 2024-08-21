@@ -38,7 +38,7 @@ This repository includes a Python project developed for storytelling, data scien
 - Access the Streamlit Site
 - QR Codes
 - Our Team
-- [Codes of Conduct](#code-of-conduct)
+- Codes of Conduct
 - License
 
 
