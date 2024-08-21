@@ -111,6 +111,28 @@ plt.title("Coeficiente de Correlação Linear")
 plt.show()
 ```
 
+## Three Methods to Estimate Diamond Prices:
+
+1. **Request the Diamond's Mass from the Client:**
+
+ $$\text{Carat} = \frac{200}{\text{Mass} \ (\text{mg})}$$
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Resource Engineering
 
 ### [Analysis of the Heat Map Above Based on Price:]()
