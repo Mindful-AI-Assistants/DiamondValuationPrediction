@@ -74,7 +74,7 @@ However, in extreme cases where a quick estimate of a diamond’s value is neede
 
 ## [Metodology 🛠️]()
 
-### [Loading and Data Exploration]()
+### Loading and Data Exploration
 
 ```python
 import pandas as pd
