@@ -44,7 +44,7 @@ This repository includes a Python project developed for storytelling, data scien
 
 
   
-##  📚 Introduction
+##  [📚 Introduction]()
 
 This project explores the fascinating world of diamonds and seeks to predict their price based on a variety of factors. We aim to uncover the hidden relationships between diamond characteristics and their value, ultimately contributing to a deeper understanding of the diamond market.
 
