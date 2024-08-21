@@ -29,10 +29,10 @@ This repository includes a Python project developed for storytelling, data scien
 - Analysis of Categorical Features
 - Insights
 - Recommendations
-- [Conclusion](#conclusion)
-- [File Structure](#file-structure)
-- [Getting Started Cloning](#getting-started)
-- [Contributing](#contributing)
+- Conclusion
+- File Structure
+- Getting Started Cloning
+- Contributing
 - [Git Commands](#GitCommands)
 - [Codes, Dataset and Data Analysis Report](#Report)
 - [Access the Streamlit Site](https://diamondsvalues.streamlit.app/)  <!-- - [ Tap here and teleport to the site]()   -->
