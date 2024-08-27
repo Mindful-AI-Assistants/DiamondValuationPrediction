@@ -41,6 +41,7 @@ This repository includes a Python project developed for storytelling, data scien
 - [Licença](#licenca)
 
 
+<br>
   
 ##  [📚 Introduction]()
 
