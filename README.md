@@ -24,7 +24,7 @@ This repository includes a Python project developed for storytelling, data scien
 - [Data Set](#dataset)
 - [Methodology](#mMethodology)
 - [Discoveries](#discoveries)
-- [Análise de Recursos Numéricos](#analise-de-recursos-numericos)
+- [Numerical-resource-analysis](#numerical-resource-analysis)
 - [Análise de Recursos Categóricos](#analise-de-recursos-categoricos)
 - [Insights](#insights)
 - [Recomendações](#recomendacoes)
