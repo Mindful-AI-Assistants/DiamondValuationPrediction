@@ -41,27 +41,6 @@ This repository includes a Python project developed for storytelling, data scien
 - [Licença](#licenca)
 
 
-Introduction
-Dataset
-Methodology
-Findings
-Numerical Resource Analysis
-Categorical Resource Analysis
-Insights
-Recommendations
-Conclusion
-File Structure
-Getting Started with Cloning
-Contributing
-Git Commands
-Data Analysis Code and Report
-Visit the Streamlit Site <!-- - [ Tap here and teleport to the site]() 🇺🇸 -->
-QR Codes
-Our Team
-Code of Conduct
-License
-
-
   
 ##  [📚 Introduction]()
 
