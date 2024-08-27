@@ -22,23 +22,25 @@ This repository includes a Python project developed for storytelling, data scien
 
 - Introductiom
 - Dataset
-- Methodology
-- Findings
-- Analysis of Numerical Features
-- Analysis of Categorical Features
-- Insights
-- Recommendations
-- Conclusion
-- File Structure
-- Getting Started Cloning
-- Contributing
-- Git Commands
-- Codes, Dataset and Data Analysis Report
-- Access the Streamlit Site
-- QR Codes
-- Our Team
-- Codes of Conduct
-- License
+Introduction
+Dataset
+Methodology
+Findings
+Numerical Resource Analysis
+Categorical Resource Analysis
+Insights
+Recommendations
+Conclusion
+File Structure
+Getting Started with Cloning
+Contributing
+Git Commands
+Data Analysis Report and Codes
+Visit the Streamlit Site
+QR Codes
+Our Team
+Code of Conduct
+License
 
 
   
