@@ -35,18 +35,10 @@ This repository includes a Python project developed for storytelling, data scien
 - [Comandos Git](#GitCommands)
 - [Códigos e Relatório de Análise de Dados](#Report)
 - [Acesse o Site do Streamlit](https://diamondsvalues.streamlit.app/)  <!-- - [ Tap here and teleport to the site]() 🇺🇸  --> 
-- [Códigos QR](#QRCodes)
+- [QR Codes](#QRCodes)
 - [Nossa Equipe](#nossa-equipe)
 - [Code of Conduct](#code-of-conduct)
 - [License](#license)
-
-
-
-
-
-
-
-
 
 
 <br>
