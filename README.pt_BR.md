@@ -12,11 +12,12 @@ https://github.com/user-attachments/assets/7eeb93e6-9d3f-41d0-b40a-3d17e28670a9
 
 <br><br>
 
-## About this Project
+## [Sobre este Projeto]()
 
 Este repositório contém um projeto Python para analisar um conjunto de dados de características de diamantes e prever seu preço usando técnicas de aprendizado de máquina.
 
-## Sumário
+
+## [Sumário]()
 
 - [Introdução](#introducao)
 - [Conjunto de Dados](#conjunto-de-dados)
