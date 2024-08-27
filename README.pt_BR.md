@@ -39,9 +39,9 @@ Este repositório contém um projeto Python para analisar um conjunto de dados d
 - [Código de Conduta](#codigo-de-conduta)
 - [Licença](#licenca)
 
-  #
+  
 
-## Introdução 
+## [Introdução]()
 
 Este projeto explora o fascinante mundo dos diamantes e busca prever seus preços com base em uma variedade de fatores. Nosso objetivo é descobrir as relações ocultas entre as características dos diamantes e seus valores, contribuindo para uma compreensão mais profunda do mercado de diamantes. 
 
