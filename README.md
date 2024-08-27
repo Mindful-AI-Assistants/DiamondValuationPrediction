@@ -20,27 +20,26 @@ This repository includes a Python project developed for storytelling, data scien
 
 ## [Table of Contents]()
 
-- Introductiom
-- Dataset
-Introduction
-Dataset
-Methodology
-Findings
-Numerical Resource Analysis
-Categorical Resource Analysis
-Insights
-Recommendations
-Conclusion
-File Structure
-Getting Started with Cloning
-Contributing
-Git Commands
-Data Analysis Report and Codes
-Visit the Streamlit Site
-QR Codes
-Our Team
-Code of Conduct
-License
+- [Introdução](#introducao)
+- [Conjunto de Dados](#conjunto-de-dados)
+- [Metodologia](#metodologia)
+- [Descobertas](#descobertas)
+- [Análise de Recursos Numéricos](#analise-de-recursos-numericos)
+- [Análise de Recursos Categóricos](#analise-de-recursos-categoricos)
+- [Insights](#insights)
+- [Recomendações](#recomendacoes)
+- [Conclusão](#conclusao)
+- [Estrutura de Arquivos](#estrutura-de-arquivos)
+- [Começando a Clonar](#comecando)
+- [Contribuindo](#contribuindo)
+- [Comandos Git](#GitCommands)
+- [Códigos e Relatório de Análise de Dados](#Report)
+- [Acesse o Site do Streamlit](https://diamondsvalues.streamlit.app/)  <!-- - [ Tap here and teleport to the site]() 🇺🇸  --> 
+- [Códigos QR](#QRCodes)
+- [Nossa Equipe](#nossa-equipe)
+- [Código de Conduta](#codigo-de-conduta)
+- [Licença](#licenca)
+
 
 
   
