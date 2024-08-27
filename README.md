@@ -20,7 +20,7 @@ This repository includes a Python project developed for storytelling, data scien
 
 ## [Table of Contents]()
 
-- [Introdução](#introducao)
+- [Introduction](#introduction)
 - [Conjunto de Dados](#conjunto-de-dados)
 - [Metodologia](#metodologia)
 - [Descobertas](#descobertas)
@@ -39,6 +39,14 @@ This repository includes a Python project developed for storytelling, data scien
 - [Nossa Equipe](#nossa-equipe)
 - [Código de Conduta](#codigo-de-conduta)
 - [Licença](#licenca)
+
+
+
+
+
+
+
+
 
 
 <br>
