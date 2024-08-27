@@ -30,7 +30,7 @@ This repository includes a Python project developed for storytelling, data scien
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
 - [File Structure](#file-structure)
-- [Começando a Clonar](#comecando)
+- [Starting to Clone](#starting-clone)
 - [Contribuindo](#contribuindo)
 - [Comandos Git](#GitCommands)
 - [Códigos e Relatório de Análise de Dados](#Report)
