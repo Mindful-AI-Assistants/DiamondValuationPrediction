@@ -28,7 +28,7 @@ This repository includes a Python project developed for storytelling, data scien
 - [Analysis of Categorical Resources](#analysis-of-categorical-resources)
 - [Insights](#insights)
 - [Recommendations](#recommendations)
-- [Cconclusion](#conclusion)
+- [Conclusion](#conclusion)
 - [Estrutura de Arquivos](#estrutura-de-arquivos)
 - [Começando a Clonar](#comecando)
 - [Contribuindo](#contribuindo)
