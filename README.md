@@ -18,7 +18,7 @@ This repository includes a Python project developed for storytelling, data scien
 
 <br>
 
-## [Table of Contents]()
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Data Set](#dataset)
