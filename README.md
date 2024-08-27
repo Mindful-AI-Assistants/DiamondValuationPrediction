@@ -16,8 +16,6 @@ https://github.com/user-attachments/assets/292156b0-1430-48f7-b6d7-2ce08a7d6fee
 
 This repository includes a Python project developed for storytelling, data science, and artificial intelligence at PUC-SP University. The project involves analyzing a dataset of diamond characteristics and using machine learning techniques to predict their price.
 
-<br>
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -31,7 +29,7 @@ This repository includes a Python project developed for storytelling, data scien
 - [Conclusion](#conclusion)
 - [File Structure](#file-structure)
 - [Starting to Clone](#starting-clone)
-- [Contribuindo](#contribuindo)
+- [Contributing](#contributing)
 - [Comandos Git](#GitCommands)
 - [Códigos e Relatório de Análise de Dados](#Report)
 - [Acesse o Site do Streamlit](https://diamondsvalues.streamlit.app/)  <!-- - [ Tap here and teleport to the site]() 🇺🇸  --> 
