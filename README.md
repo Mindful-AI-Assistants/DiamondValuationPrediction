@@ -3,11 +3,15 @@
 
 <br><br>
 
+# <p align="center">  💎 Diamond Valuation Prediction
+
+<br>
+
 https://github.com/user-attachments/assets/292156b0-1430-48f7-b6d7-2ce08a7d6fee
 
 <br>
 
-# <p align="center">  💎 Diamond Valuation Prediction
+
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
 <br><br>
