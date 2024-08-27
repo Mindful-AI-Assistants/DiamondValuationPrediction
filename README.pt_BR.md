@@ -1,8 +1,7 @@
  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
   <!--  START HEADER  -->  
 
-<br><br>
-
+<br>
 
 # <p align="center">  💎 Previsão de Valorização de Diamantes
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
@@ -11,7 +10,7 @@
 
 https://github.com/user-attachments/assets/7eeb93e6-9d3f-41d0-b40a-3d17e28670a9
 
-<br>
+<br><br>
 
 Este repositório contém um projeto Python para analisar um conjunto de dados de características de diamantes e prever seu preço usando técnicas de aprendizado de máquina.
 
