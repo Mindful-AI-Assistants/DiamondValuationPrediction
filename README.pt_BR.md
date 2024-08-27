@@ -7,8 +7,8 @@
 # <p align="center">  💎 Diamond Valuation Prediction
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
+<br>
 
-https://github.com/user-attachments/assets/39140ac6-b938-4f0a-aad2-d933e199ae92
 
 
 <br>
