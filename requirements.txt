@@ -1,7 +1,7 @@
 # Install Dependencies
 
 # Streamlit
-streamlit==1.37.1
+streamlit==1.38.0
 
 # Bibliotecas para manipulação de dados
 numpy==2.1.0
@@ -32,8 +32,12 @@ sqlalchemy==2.0.32
 psycopg2-binary==2.9.9
 
 # Bibliotecas para Jupyter Notebook
+
 jupyter==1.0.0
 notebook==7.2.2
+
+jupyter==1.1.1
+notebook==7.2.1
 ipywidgets==8.1.5
 
 # Outras bibliotecas úteis
