@@ -524,7 +524,7 @@ git branch -d feature/my-feature
 
 ### Data Analysis Report:  
 
-- [Data Analysis Report]()
+- [Data Analysis Report](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/blob/86c2111a01c153279e7e8a7744f398041ef5d35b/Data%20Analyze%20Report/Data%20Analyse%20English/Data%20Analyse%20English.pdf)
 
 
 
