@@ -411,71 +411,172 @@ Estrutura do Arquivo 📁
     
     └── 🇧🇷 avaliacaoDi
 
+## 👌 [Clone este Repositório]()
 
+```bash
+git clone https://github.com/[seu-usuário]/diamond-price-prediction.git
+```
 
+Instale os Pacotes Necessários:
+```bash
+pip install -r requirements.txt
+```
 
+## [🤝 Contribuição]()
 
+Toda contribuição é altamente apreciada. Você pode contribuir de duas maneiras:
 
+1. Crie uma issue e nos conte sua ideia 💡. Certifique-se de usar a etiqueta *nova ideia* nesse caso;
+2. Faça um fork do projeto e envie uma *pull request* com sua nova ideia. Antes disso, por favor, certifique-se de ler e seguir o [Guia de Contribuição](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTING.md).
 
+## [💻 Comandos Git]()
 
+Crie um novo branch:
 
+```bash
+git checkout -b feature/minha-feature
+```
 
+### Adicione as mudanças à área de stage:
 
+```bash
+git add .
+```
 
+Faça o commit das mudanças:
 
+```bash
+git commit -m "feat: Implementada nova funcionalidade"
+```
 
+Envie as mudanças para o repositório remoto:
 
+```bash
+git push origin feature/minha-feature
+```
 
+Crie uma pull request:
 
+[Link do Repositório](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/edit/main/README)
 
+Mescle as mudanças:
 
+```bash
+git merge feature/minha-feature
+```
 
+Delete o branch:
 
-#
+```bash
+git branch -d feature/minha-feature
+```
 
-## Códigos e Relatório de Análise de Dados
+## [👩🏽‍💻 Códigos e Relatório de Análise de Dados]()
+
+### Códigos:
 
 - [DiamondValuationPredictio.py](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/blob/50d1ec6c1074be9848ad472ff1955aad541d1ae2/Codes/Codes%20English/Codes%20Portugues/Codes%20%20English/diamondvaluationenglish.py)
 
 - [DiamondValuationPrediction.ipynb](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/blob/1770a467185ea56dffdede68b81f730bcff8ead4/Codes/Codes%20English/Codes%20Portugues/Codes%20%20English/diamondValuationEnglish.ipynb)
 
-- [Relatório de Análise de Dados](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/blob/d70469f8420bba79f97ed01cbac5234659503a79/Data%20Analyze%20Report/Data%20Analyse%20Portugues/avaliacaoDiamantePortugues%20.pdf)
+<br>
 
-#
+### Conjunto de Dados:
 
-## Acesse o Site Streamlit
+- [Dataset Diamond Valuation - do kaggle](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/blob/57c0e19bc9bd3efbdd8256442129261df9ac358f/Database/Diamonds_limpa%20(1).csv)
 
-🚀 [Toque aqui e teletransporte-se para o Site Streamlit](https://diamondsvalues.streamlit.app/) 
+<br>
 
-#
+### Relatório de Análise de Dados:  
 
-## Códigos QR
+- [Relatório de Análise de Dados](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/blob/86c2111a01c153279e7e8a7744f398041ef5d35b/Data%20Analyze%20Report/Data%20Analyse%20English/Data%20Analyse%20English.pdf)
 
-<p align="center"> 👑 Código QR do Site no Streamlit </p>
+## [👑 Acesse o Site no Streamlit]()
+
+<br>
+
+🚀 [Clique aqui e teleporte-se para o Site do Streamlit](https://diamondsvalues.streamlit.app/)
+
+## [QR Codes]()
+
+### <p align="center"> 👑 QR Code do Site no Streamlit </p>
 
 <p align="center">
-  <img src="Site.png" alt="QR Code 1" width="200"/>
-  </p>
+    <img src="https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/assets/113218619/e52ee3b6-6260-4733-8a65-5c7e2bc8c5d7" alt="QR Code 1" width="200"/>
+</p>
 
-  <br>
+<br>
+
+### <p align="center"> :octocat: QR Code do Repositório no GitHub </p>
+
+<p align="center"> 
+    <img src="https://github.com/user-attachments/assets/aa52cd93-ac2d-4728-8c53-a1ed18470905" alt="QR Code 2" width="200"/> 
+</p>
+
+<br>
 
 <!--  
-<p align="center"> 👑🇺🇸 QR Code of the Site on Streamlit (English)  (Portuguese) </p>
+<p align="center"> 👑🇺🇸 QR Code do Site no Streamlit (Inglês)  (Português) </p>
 
 <p align="center">
   <img src="" />
   </p>
+-->
 
-  <br>
-  -->
+## [👥 Nosso Time]() 
 
-<p align="center">:octocat: Código QR do Repositório GitHub </p>
+- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
-  <p align="center">
-  <img src="RepositorioGitHub.png" alt="QR Code 2" width="200"/>
-</p>
+- [Gabriel Melo Dos Santos](https://github.com/Gabri3l-M)
+
+- [José Augusto de Souza Oliveira](https://github.com/Jojose3)
+
+- [Luan Augusto dos Santos Fabiano](https://github.com/LuanFabiano28)
+
+- [Pedro Gallego Barenco](https://github.com/Pgbarenco)
+
+- [Pedro Vyctor Carvalho De Almeida](https://github.com/ppvyctor)
+
+## [🤝 Código de Conduta]()
+
+Estamos comprometidos em promover uma comunidade acolhedora e inclusiva para todos os membros da equipe. Esperamos que todos sigam os seguintes princípios:
+
+- Seja respeitoso: Trate os outros com cortesia e respeito, independentemente de sua origem, identidade ou opiniões.
+- Seja construtivo: Foque em fornecer feedback útil e críticas construtivas.
+- Seja mente aberta: Esteja aberto a diferentes perspectivas e ideias.
+- Seja responsável: Assuma a responsabilidade por suas ações e palavras.
+- Seja inclusivo: Promova um ambiente acolhedor e inclusivo para todos.
+
+Se você testemunhar qualquer violação deste código de conduta, entre em contato com [suas informações de contato] para que possamos lidar com a situação de forma adequada.
+
+## [💌 Contato]()
+
+Para mais informações, entre em contato com [Mindful-AI-Assistants](mailto:fabicampanari@proton.me)
+
+#
+
+###### <p align="center">[Copyright 2024 Mindful-AI-Assistants. Código liberado sob a licença MIT.](https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #
 
-###### <p align="center">[Copyright 2024 Mindful-AI-Assistants. Código lançado sob a licença MIT.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
