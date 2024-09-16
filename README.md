@@ -43,10 +43,11 @@ This repository includes a Python project developed for storytelling, data scien
   
 ##  [📚 Introduction]()
 
-This project explores the fascinating world of diamonds and seeks to predict their price based on a variety of factors. We aim to uncover the hidden relationships between diamond characteristics and their value, ultimately contributing to a deeper understanding of the diamond market.
+This project explores the fascinating world of diamonds and aims to predict their price based on a variety of factors. Our goal is to uncover hidden relationships between diamond characteristics and their value, contributing to a deeper understanding of the diamond market.
 
-The purpose of this predictive analysis is to create a website that determines the price of a diamond based on its characteristics: carat, cut, color, clarity, price, depth, table, x (length), y (width), and z (depth). 
-However, in extreme cases where a quick estimate of a diamond’s value is needed, it is not feasible to spend time defining all these characteristics. Therefore, it is necessary to conduct a study of the database to determine what are the minimum necessary characteristics to accurately estimate the price of a diamond. To implement the project, it is essential to assess how each characteristic of the diamond influences its price. This requires discovering how the variability of a characteristic can affect the variability of the price. Therefore, the use of statistical strategies will be crucial to answer these questions and ensure the accuracy of the diamond value estimate
+The purpose of this predictive analysis is to create a website that determines the price of a diamond based on its characteristics: carat, cut, color, clarity, price, depth, table, x (length), y (width), and z (depth). In extreme cases where a quick estimate is required, it is not feasible to define all of these characteristics. Therefore, a study is necessary to determine the minimum characteristics needed to estimate the price accurately.
+
+For the database study, we will use various statistical strategies, including linear regression, and apply chemistry knowledge to formulate mathematical equations to define diamond prices based on their characteristics. Additionally, to clean the database, which contains missing values, and to predict the value of diamonds based on their characteristics, we will employ the KNN (K-Nearest Neighbors) clustering algorithm. This is a supervised learning algorithm that will be used for both cleaning and predictions. To estimate missing values in the database, the KNN algorithm will individually calculate the distance between diamonds with missing values and those with known values, based on the known characteristics of the diamonds. Then, the KNN will identify the diamonds closest to the one being analyzed and use this information to predict the missing value. The same process will be applied to predict the price of diamonds.
   
 
 
