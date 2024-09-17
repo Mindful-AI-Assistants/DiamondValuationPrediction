@@ -20,7 +20,7 @@ The project involves analyzing a dataset of diamond characteristics and using ma
 
 or more information and access to the project, visit:
 
-The GitHub repository: [SumBot FreeCode](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction)
+The GitHub repository: [https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction)
 
 
 
