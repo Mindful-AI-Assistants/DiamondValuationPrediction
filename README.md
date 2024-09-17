@@ -460,7 +460,7 @@ File Structure 📁
 ## 👌 [Clone this Repository]()
 
 ```bash
-git clone https://github.com/[your-username]/diamond-price-prediction.git
+git clone https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction.git
 ```
 
 Install Required Packages:
@@ -502,8 +502,7 @@ git push origin feature/my-feature
 Create a pull request
 
 ```
-[Repo Link]
-(https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction/edit/main/READ)
+[Repo Link](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction)
 ```
 
 Merge changes:
