@@ -125,7 +125,7 @@ $$\text{Carat} = \frac{100}{\text{Points} \ (\text{pt})}$$
 
 3. **Using Four Elements to Estimate the Carat of the Diamond:**
 
-   For the second method of estimating the diamond's carat, four elements are required: Length (mm), Width (mm), Depth (mm), and Density \(\left( \text{mm}^3/\text{mm} \right)\). We use the object's density calculation to first calculate the diamond's mass:
+   For the second method of estimating the diamond's carat, four elements are required: Length (mm), Width (mm), Depth (mm), and Density (\frac{mm}{mm^2}). We use the object's density calculation to first calculate the diamond's mass:
 
    $$\text{Density} = \frac{\text{Volume}}{\text{Mass}} \rightarrow \text{Mass} = \text{Density} \times \text{Volume}$$
 
@@ -139,15 +139,15 @@ $$\text{Carat} = \frac{100}{\text{Points} \ (\text{pt})}$$
    
    Now, we need to find the diamond's carat. To do this, we'll use Formula 1 to estimate the diamond's carat:
 
-   $$\text{Carat} = \frac{200}{\text{Mass}(\text{mg})}$$
+   $$\text{Carat} = \frac{\text{Mass}(\text{mg})}{200}$$
    
    The general formula becomes:
 
-   $$\text{Carat} = \frac{200}{\text{Density} \times \text{Volume}}$$
+   $$\text{Carat} = \frac{\text{Density} \times \text{Volume}}{200}$$
    
    OR
 
-   $$\text{Carat} = \frac{200}{\text{Length} \times \text{Width} \times \text{Depth} \times \text{Density}}$$
+   $$\text{Carat} = \frac{\text{Length} \times \text{Width} \times \text{Depth} \times \text{Density}}{200}$$
 
  
 ## [Resource Engineering]()
