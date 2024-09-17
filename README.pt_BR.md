@@ -15,7 +15,14 @@ https://github.com/user-attachments/assets/7eeb93e6-9d3f-41d0-b40a-3d17e28670a9
 
 ## [Sobre este Projeto](#)
 
-Este repositório inclui um projeto em Python desenvolvido para contar histórias, ciência de dados e inteligência artificial na Universidade PUC-SP. O projeto envolve a análise de um conjunto de dados de características de diamantes e a utilização de técnicas de aprendizado de máquina para prever seus preços.
+
+Este repositório contém um projeto em Python e Jupyter Notebook desenvolvido para a [AI Project Showcase Competition 2024, organizada pela Ready Tensor AI](https://app.readytensor.ai/publications/diamond_valuations_CZVW2DqyoYSD).
+
+O projeto foca na análise de um conjunto de dados com características de diamantes para prever seus preços usando técnicas de aprendizado de máquina, incluindo **regressão linear** e **K-Nearest Neighbors (KNN)**.
+
+Para mais informações e acesso ao projeto, visite o [repositório no GitHub](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction).
+
+
 
 ## [Tabela de Conteúdos](#)
 
