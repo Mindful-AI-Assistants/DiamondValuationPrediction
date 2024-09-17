@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/292156b0-1430-48f7-b6d7-2ce08a7d6fee
 
 ## [About This Projeto]()
 
-This repository includes a Python project developed for <!--storytelling, data science, and artificial intelligence at PUC-SP University-->the [AI Project Showcase Competition 2024 organized by Ready Tensor AI](https://app.readytensor.ai/publications/sumbot_freecode_uaWsno2Z7r2a).
+This repository includes a Python project developed for <!--storytelling, data science, and artificial intelligence at PUC-SP University-->the [AI Project Showcase Competition 2024 organized by Ready Tensor AI]([https://app.readytensor.ai/publications/sumbot_freecode_uaWsno2Z7r2a](https://app.readytensor.ai/publications/diamond_valuations_CZVW2DqyoYSD)).
 
 The project involves analyzing a dataset of diamond characteristics and using machine learning techniques to predict their price.
 
