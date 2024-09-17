@@ -15,11 +15,12 @@ https://github.com/user-attachments/assets/292156b0-1430-48f7-b6d7-2ce08a7d6fee
 ## [About This Projeto]()
 
 
-This repository contains a Python and Jupyter Notebook project developed for the [AI Project Showcase Competition 2024, organized by Ready Tensor AI](https://app.readytensor.ai/publications/diamond_valuations_CZVW2DqyoYSD). 
+This repository contains a Python and Jupyter Notebook project developed for the [AI Project Showcase Competition 2024, organized by Ready Tensor AI](https://app.readytensor.ai/publications/diamond_valuations_CZVW2DqyoYSD).
 
-The project focuses on analyzing a dataset of diamond characteristics to predict their prices using various machine learning techniques.
+The project focuses on analyzing a dataset of diamond characteristics to predict their prices using machine learning techniques, including **linear regression** and **K-Nearest Neighbors (KNN)**.
 
 For more information and access to the project, please visit the [GitHub repository](https://github.com/Mindful-AI-Assistants/DiamondValuationPrediction).
+
 
 
 
