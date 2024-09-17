@@ -33,7 +33,7 @@ psycopg2-binary==2.9.9
 
 # Bibliotecas para Jupyter Notebook
 
-jupyter==1.0.0
+jupyter==1.1.1
 notebook==7.2.2
 
 jupyter==1.1.1
