@@ -547,7 +547,7 @@ git branch -d feature/my-feature
 🚀 [Tap here and teleport to the Streamlit Site](https://diamondsvalues.streamlit.app/) 
 
 
-## [pQR Codes]()
+## [QR Codes]()
 
 ### <p align="center"> 👑 QR Code of the Site on Streamlit </p>
 
