@@ -5,7 +5,7 @@ updates:
   - package-ecosystem: "pip"  # Usa pip para gerenciar dependências  
     directory: "/"              # Diretório do projeto  
     schedule:  
-      interval: "weekly"        # Atualiza semanalmente  
+      interval: "daily"        # Atualiza semanalmente  
     commit-message:  
       prefix: "fix"             # Prefixo da mensagem de commit  
       
@@ -14,7 +14,7 @@ updates:
   - package-ecosystem: "npm"  
     directory: "/"  # Diretório onde está o package.json  
     schedule:  
-      interval: "weekly"  # Verificações semanais  
+      interval: "daily"  # Verificações semanais  
     commit-message:  
       prefix: "fix"  # Prefixo na mensagem de commit  
       include: "scope"  # Inclui o nome da dependência na mensagem  
