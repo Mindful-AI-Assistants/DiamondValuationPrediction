@@ -26,7 +26,7 @@ For more information and access to the project, please visit the [GitHub reposit
 
 
 
-## [Table of Contents]()
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Data Set](#dataset)
@@ -608,8 +608,14 @@ If you witness any violation of this code of conduct, please contact [your conta
 ## [💌 Contact]()
 
 For more information, contact [Mindful-AI-Assistants](mailto:fabicampanari@proton.me)
+
+<br><br>
+
+<p align="center"> <a href="#top">Back to Top 👆</a>
+
+
   
 
 #
 
-###### <p align="center">[Copyright 2024 Mindful-AI-Assistants. Code released under the  MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
+###### <p align="center">[Copyright 2025 Mindful-AI-Assistants. Code released under the  MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
