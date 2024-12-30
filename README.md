@@ -10,9 +10,9 @@
 
 https://github.com/user-attachments/assets/292156b0-1430-48f7-b6d7-2ce08a7d6fee
 
-<br><
+<br>
 
-https://www.youtube.com/watch?v=xePHV7e4vMg
+📺 Watch on [YouTube](https://www.youtube.com/watch?v=xePHV7e4vMg)
 
 <br><br>
 
