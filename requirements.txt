@@ -4,7 +4,7 @@
 streamlit==1.41.1
 
 # Bibliotecas para manipulação de dados
-numpy==2.2.1
+numpy==2.2.2
 pandas==2.2.3
 
 
