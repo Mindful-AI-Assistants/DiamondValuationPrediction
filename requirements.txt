@@ -18,11 +18,11 @@ scikit-learn==1.6.1
 
 # Bibliotecas para machine learning
 
-tensorflow==2.18.0
+tensorflow==2.18.1
 keras==3.9.0
-tensorflow==2.18.0
+tensorflow==2.18.1
 keras==3.9.0
-tensorflow==2.18.0
+tensorflow==2.18.1
 keras==3.9.0
 
 
