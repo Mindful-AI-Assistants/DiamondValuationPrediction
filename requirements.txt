@@ -1,7 +1,7 @@
 # Install Dependencies
 
 # Streamlit
-streamlit==1.48.0
+streamlit==1.48.1
 
 # Bibliotecas para manipulação de dados
 numpy==2.2.4
